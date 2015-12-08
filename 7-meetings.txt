@@ -1,0 +1,164 @@
+7. Meetings
+
+7.1. The following procedures will apply to all meetings unless otherwise stated:
+     7.1.1. Notice for meetings must be given in writing via E-Mail to all members no less than seven (7) days prior
+     7.1.2. Meetings shall consist of the following roles:
+            7.1.2.1. Chairperson
+            7.1.2.2. Minute Taker
+            7.1.2.3. Attenders
+            7.1.2.4. Advisors
+            7.1.2.5. Ballot Officers
+     7.1.3. Each of these roles shall comply with the duties and responsibilities for these roles as defined by Clause 6.4
+     7.1.4. With the exception of Advisory members as defined in Clause 7.1.2.4, all attendees at meetings must be Members of the Society as defined in Clause 2.4 or Participants of the relevant Committee as defined in Clause 5.1 in order to attend and to participate in Motions
+     7.1.5. All Meetings shall unless otherwise stated be considered open to any Member who wishes to attend as an observer
+            7.1.5.1. Members should notify the Chair of their intention to do so at least one (1) day prior to the relevant Meeting
+            7.1.5.2. If the Meeting is determined by the Executive to be of sensitive nature by the passing of a Motion, they can notify the membership at any time that the meeting will be closed to observers
+     7.1.6. Motions are carried in a meeting by:
+            7.1.6.1. Unless otherwise specified, the quorum for a Motion shall be three (3) non- Advisory persons
+            7.1.6.2. A Motion is put forward to the Chairperson by a non-Advisory participant and must be seconded by another participant for the Chairperson to proceed
+            7.1.6.3. The Chairperson must call for final cases to be presented with a maximum of five (5) minutes allocated to this task for items of business previously debated, and fifteen (15) minutes for new items of business
+            7.1.6.4. The Chairperson calls for a vote, which is conducted by either secret ballot or by a show of hands at their discretion
+            7.1.6.5. With the exception of Advisory participants as defined in Clause 7.1.2.4 who are not entitled to participate, and the exception contained in Clause 7.1.6.9, all participants present are entitled to one single vote with the exception of Clause 7.1.6.7
+            7.1.6.6. Unless otherwise stated, proxy votes are not allowed
+            7.1.6.7. In the case of equality of voting, the Chairperson is empowered to make the deciding vote unless the Society President, as defined in Clause 3.4.1.1 is present in a non-Advisory role, in which case they retain the deciding vote
+            7.1.6.8. The Motion is passed with a simple majority vote
+            7.1.6.9. In Orgs Meetings, each member of the Executive Body and each committee are entitled to one single vote, except in the case where a Member is Committee Head for multiple Committees, where that Member is entitled to at most one single vote. In particular, a member of the Executive Body who is also a Committee Head is entitled to at most one vote
+     7.1.7. Unless otherwise stated, a Ballot Officer shall be:
+            7.1.7.1. Appointed at the discretion of the Chairperson
+            7.1.7.2. An Attender who is not also the Chairperson or Minute Taker, as defined by Clauses 7.1.2 through 7.1.4
+            7.1.7.3. An Attender who did not Raise or Second the Motion to be voted upon
+7.2. Annual General Meeting (“AGM” herein)
+     7.2.1. There shall be one AGM each calendar year, held on a day not within the University exam period
+     7.2.2. Notice for the AGM shall be given no less than seven (7) days prior, and is to be:
+            7.2.2.1. Given in writing to Arc
+            7.2.2.2. Given in writing to all Society Members via E-Mail
+     7.2.3. The agenda for the AGM shall be circulated to all Society Members no less than seven (7) days prior
+     7.2.4. Quorum for the AGM shall be fifteen (15) Members or half the Society Membership, whichever is less. 
+     7.2.5. If the AGM is not held on an academic day, then members may vote by proxy on all matters.
+            7.2.5.1. Proxy voting will be conducted in the same manner as specified in Clause 9.2.10.iii
+     7.2.6. Unless otherwise stated in the agenda notice, this meeting will be:
+            7.2.6.1. Chaired by the Society President
+            7.2.6.2. Minutes taken by the Society Secretary
+            7.2.6.3. Attenders will be all Members as defined in Clause 2.4
+            7.2.6.4. No persons in Advisory roles may attend
+     7.2.7. At this meeting:
+            7.2.7.1. Reports will be presented by at least the President and Treasurer
+            7.2.7.2. Full financial reports will be presented and adopted
+            7.2.7.4. Any motions to change the constitution shall take place
+            7.2.7.5. Other Motions will be discussed and voted on
+     7.2.8. Full minutes of this meeting, including a list of the new Executive, written financial reports and constitutional amendments, shall be forwarded to Arc within ten (10) academic days of the meeting
+7.3. Extraordinary General Meeting (“EGM” herein)
+     7.3.1. An EGM shall be held on a day not within the University exam period
+     7.3.2. The format, procedures, notice, agenda and quorum for an EGM shall be the same as for the AGM, except that Executive Elections will not occur unless specifically notified
+     7.3.3. An EGM is called when:
+            7.3.3.1. The Executive passes a Motion to do so;
+            7.3.3.2. Orgs passes a Motion to do so to award privileges to the Executive Body or members in response to Clause 4.2.8
+            7.3.3.3. The Executive is petitioned to do so by at least fifteen (15) Members in writing. A petitioned EGM must be held within twenty one (21) business days, but no earlier than five (5).
+     7.3.4. There must be one (1) mandatory EGM held annually before the end of the year where all executive positions are vacated and an Executive Election shall take place in accordance with the Executive Election process outlined in Section 9.
+            7.3.4.1. At the mandatory EGM, Executive Elections shall take place in accordance with the Executive Election Process Outlined in Section 9.
+            7.3.4.2. Have at least two (2) Ballot Officers for Executive Election, as defined in Section 9
+            7.3.4.3. Notwithstanding Clause 7.1.7, a Ballot Officer for Executive Elections shall be:
+                     7.3.4.3.1. Appointed by a Motion passed by the Executive at any time before the commencement of the Mandatory EGM
+                     7.3.4.3.2. An Attender of the Mandatory EGM, where at the Mandatory EGM the Ballot Officer:
+                                i.     Must not be running for election in any Executive position 
+                                ii.    Must not vote in any ballot for an Executive election
+                     7.3.4.3.3. Not an Attender of the Mandatory EGM, where at the Mandatory EGM the Ballot Officer:
+                                i.     Must take no part in the Mandatory EGM except where necessary to fulfil all roles and responsibilities as defined in Clause 6.4.5, with the exception of Clause 6.4.5.i
+            7.3.4.4. All other requirements for the mandatory EGM will adhere to the procedures laid out in Section 7.1
+7.4. Executive Meetings
+     7.4.1. Occur no less than once every four (4) weeks for the duration of the Executive Term as defined in Clause 3.10, except when an Organisational Standing Committee Meeting as defined in Clause 7.5 has occurred within the same time period, in which case the Executive may suspend its independent meetings at its discretion
+     7.4.2. Notice for the meeting whenever possible shall be circulated to all Members no less than three (3) business days prior, and the agenda circulated no less than one (1) business day prior
+     7.4.3. Quorum for an Executive Meeting shall be no less than two thirds (2/3) of the Executive Members as defined in Clause 3.4.1
+     7.4.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.4.4.1. Chaired by the President
+            7.4.4.2. Minutes taken by the Secretary
+            7.4.4.3. Attenders, Executive Members as defined in Clause 3.4.1
+            7.4.4.4. Advisors, Non-Executive Members as defined in Clause 3.4.2 who do not require permission of the Chairperson, and other Advisors at the discretion of the Executive
+     7.4.5. This meeting shall have all other procedures and processes as defined in Section 7.1
+7.5. Organisational Standing Committee Meetings (here in “Orgs Meetings”)
+     7.5.1. Occur no less than once every four (4) weeks, for the duration of the Orgs Term as defined in Clause 4.11.
+     7.5.2. Notice for the meeting shall be circulated to all Members no less than three (3) business days prior, and the agenda circulated no less than one (1) business day prior
+     7.5.3. Quorum for an Orgs Meeting shall be no less than half (1/2) the Orgs body as defined in Clause 4.4
+     7.5.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.5.4.1. Chaired by the President
+            7.5.4.2. Minutes taken by the Secretary
+            7.5.4.3. Attenders, the Orgs body as defined in Clause 4.4
+            7.5.4.4. Advisors appointed at the discretion of Orgs
+     7.5.5. A Motion passed by Orgs is subject to ratification by the Executive
+     7.5.6. This meeting shall have all other procedures and processes as defined in Section 7.1
+7.6. Committee Meetings
+     7.6.1. Occur whenever deemed necessary, for the duration of the Committee Term as defined in Clause 5.11
+     7.6.2. Notice for the meeting shall be circulated to Committee Participants no less than two (2) business days prior, and the agenda circulated no less than one (1) day prior
+     7.6.3. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.6.3.1. Chaired by the Head of Committee
+            7.6.3.2. Minutes taken by the Committee Secretary
+            7.6.3.3. Attenders, the Committee Participants as defined in Clause 5.4
+            7.6.3.4. Advisors, any non-Committee members present at the meeting
+     7.6.4. A Motion passed in a Committee is subject to ratification by Orgs
+     7.6.5. This meeting shall have all other procedures and processes as defined in Section 7.1
+7.7. The Transitional Executive
+     7.7.1. Occur no less than fifteen (15) business days after an Executive Election. In most cases this will be once each calendar year immediately following the mandatory EGM.
+     7.7.2. Notice and agenda for the meeting shall be circulated to all outgoing and incoming Members no less than five (5) business days prior
+     7.7.3. Quorum for an Executive Meeting shall be no less than half (1/2) of the Executive Members as defined in Clause 3.4.1 for both the outgoing and incoming Executives
+     7.7.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.7.4.1. Chaired by the outgoing President
+            7.7.4.2. Minutes taken by the incoming Secretary
+            7.7.4.3. Attenders, Members of both the outgoing and incoming Executive as defined in Clause 3.4
+            7.7.4.4. Advisors may not attend the Transitional Executive
+     7.7.5. At this meeting:
+            7.7.5.1. Reports will be presented by at least one (1) outgoing Director, one (1) outgoing Producer and the outgoing Treasurer
+            7.7.5.2. Full financial records will be handed over to the incoming Treasurer
+            7.7.5.3. The Debrief compiled in Clause 7.8.6 shall be handed over to the incoming Executive members
+            7.7.5.4. All outstanding business will be disclosed to the incoming Executive
+            7.7.5.5. Only business and Motions involving the outgoing Executive may be discussed or vote on
+     7.7.6. This meeting shall otherwise have all other procedures and processes as defined in Section 7.4
+7.8. The Organisational Standing Committee Debrief (herein “Orgs Debrief”)
+     7.8.1. Occur no less than five (5) days after bump-out. In most cases this will be once each calendar year following the last show night.
+     7.8.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) days prior
+     7.8.3. Quorum for the meeting shall be no less than two thirds (2/3) of the Members of Orgs as defined in Clause 4.4
+     7.8.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.8.4.1. Chaired by the President
+            7.8.4.2. Minutes taken by the Secretary
+            7.8.4.3. Attenders, all Members of Orgs as defined in Clause 4.4
+            7.8.4.4. Advisors, other attendees present at the invitation of the Executive
+     7.8.5. At this meeting:
+            7.8.5.1. Reports will be presented by at least one (1) Director, one (1) Producer, the Treasurer and each Committee Head.
+            7.8.5.2. Where a Committee Head cannot attend, they should submit a written report to be read to the meeting
+            7.8.5.3. A Motion will be passed fixing the number of Director and Producer Positions that will be presented to the next subsequent mandatory EGM following the close of the Debrief
+            7.8.5.4. No other Motions may be voted on at this meeting
+     7.8.6. The minutes for this meeting shall be compiled into a Debrief Document and distributed to all members of Orgs within seven (7) business days
+     7.8.7. This meeting shall otherwise have all other procedures and processes as defined in Section 7.5
+7.9. The Organisational Standing Committee Budget Meeting (herein “Orgs Budget Meeting”):
+     7.9.1. Occur no less than three (3) months after the commencement of the Executive Term
+     7.9.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) business days prior
+     7.9.3. Quorum for the meeting shall be no less than three quarters (3/4) of the Members of Orgs as defined in Clause 4.4
+     7.9.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.9.4.1. Chaired by the Treasurer
+            7.9.4.2. Minutes taken by the Secretary
+            7.9.4.3. Attenders, all Members of Orgs as defined in Clause 4.4, or where the Committee Head cannot attend the CFO for that Committee
+            7.9.4.4. Advisors, the Committee Financial Officer (herein “CFO”) for each Committee who are attending in addition to their respective Committee Head
+     7.9.5. At this meeting:
+            7.9.5.1. The Income Projection prepared by the Treasurer will be presented
+            7.9.5.2. Each Preliminary Budget request prepared by the CFO will be presented
+            7.9.5.3. The Final Budget will be prepared in the meeting by discussion and negotiation between Attenders, Advisors and the Treasurer
+            7.9.5.4. The Final Budget must be carried by a Motion
+            7.9.5.5. The Final Budget must be the only Motion passed at the meeting
+     7.9.6. Final Budget passed in this meeting must be ratified by the Executive before it comes into effect
+     7.9.7. The Treasurer must circulate the Final Budget within seven (7) business days of being ratified to all members of Orgs
+     7.9.8. This meeting shall otherwise have all other procedures and processes as defined in Section 7.5
+7.10. The Reflection Panel
+     7.10.1. Shall be the meeting where candidates for Executive positions are interviewed in accordance with the Executive Election process defined in Section 9
+     7.10.2. Shall be closed to observers to protect the privacy of candidates
+     7.10.3. Occur no less than fourteen (14) days after the Orgs Debrief and no more than one (1) month prior to the mandatory EGM.
+     7.10.4. Notice and agenda for the meeting shall be circulated to the attenders no less than three (3) days prior
+     7.10.5. Subject to Clause 7.10.5.5 the meeting shall be:
+            7.10.5.1. Chaired by an independent facilitator who is not a Member of the Society, such as member of the CSE Administration, Arc, or a respected member of the general community, invited to do so by the Executive
+            7.10.5.2. Minutes taken by the Secretary
+            7.10.5.3. Attenders shall be:
+                     i.     All Members of Orgs as defined by Clause 4.4 subject to Clause 7.10.5.5
+                     ii.    One (1) past Executive Member who is not a member of the current Executive Body or a Member of Orgs, invited to participate by the Executive
+                     iii.   One (1) representative from another Theatrical Society, Show or other similar group who is not a current Member of the Society, invited to participate by the Executive
+            7.10.5.4. No Advisors may attend the meeting
+            7.10.5.5. No candidates may attend the meeting, with the exception of those who are also Executive members who must leave the meeting during the discussion of the positions they are applying for. If the Society President or Secretary are candidates then their roles for the meeting must be filled by other members of the Executive.
+     7.10.6. All discussion at the Reflection Panel meeting is considered confidential and minutes will not be made publicly available to the membership. Records will only be made available to Arc at its request.
+     7.10.7. This meeting shall otherwise have all other procedures and processes as defined in Section 7.1.
