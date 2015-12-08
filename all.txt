@@ -53,7 +53,7 @@ CSE Revue Society Constitution
      2.4.2. Associate Members: any member who is not a current UNSW student.
 2.5. The duration of a person's membership shall be:
      2.5.1. Persons elected to the Executive as defined in Clause 3.4 at an AGM or EGM are classified as Members from the close of that AGM or EGM until the end of the Executive Term as defined in Clause 3.10
-     2.5.2. Subject to Clause 2.3.1, for all other persons from the date Clause 2.3 is met until the close of the Society’s next AGM.
+     2.5.2. Subject to Clause 2.3.1, for all other persons from the date Clause 2.3 is met until the close of the Society's next AGM.
 2.6. The Society shall not discriminate on the basis of gender, marital status, race, age, sexual preference or religion, in any of its activities or procedures, including the granting of Society Membership.
 2.7. Notwithstanding Clause 2.5, the Society Executive shall proactively seek to maintain 85% CSE Students as defined in Clause 2.4.1 in the composition of its Membership
 2.8. Notwithstanding Clause 2.5, any Member of the Society may have their membership terminated if:
@@ -238,14 +238,14 @@ CSE Revue Society Constitution
 6.1. The Executive Body
      6.1.1. President
             i.     To fulfil the role of Chairperson as defined by Clause 6.4.1 for all meetings defined by Clauses 7.2 through to 7.8, and 7.10
-            ii.    To contribute to the management of the Society through the Executive by representing the interests of Members and the Society’s goals and vision as a whole
+            ii.    To contribute to the management of the Society through the Executive by representing the interests of Members and the Society's goals and vision as a whole
             iii.   To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the President
             iv.    To oversee and coordinate the activities and administration of the Society
             v.     To acquaint each Executive officer with their duties and responsibilities, and maintain personal contact with them.
             vi.    To ensure that each member of the Executive, Orgs performs their duties as laid down in this constitution
             vii.   To ensure that there are regular meetings of the Executive and Orgs as appropriate
             viii.  To pro-actively ensure the smooth running of all the Society by liaising with Directors and Producers
-            ix.    To ensure that all other tasks necessary for the running of the society and its activities are performed properly, either by performing them one’s self or by delegating them.
+            ix.    To ensure that all other tasks necessary for the running of the society and its activities are performed properly, either by performing them one's self or by delegating them.
             x.     To, in consultation with the rest of the Executive and through discussion with Orgs, develop and pursue long term goals for the society
             xi.    To have a thorough knowledge of this constitution and ensure that it is adhered to.
             xii.   To act as official spokesperson for the Society
@@ -254,7 +254,7 @@ CSE Revue Society Constitution
             xv.    To, in conjunction with the Secretary, establish and maintain relationships with other campus community groups, University bodies and off campus organisations, with the aim of promoting the Society and its activities.
             xvi.   To, through liaison with the Secretary, identify, solicit and invite interest in the membership for potential future Executive members and invite them to participate in Advisory roles in appropriate meetings and or society activities in order to develop experience and skills
             xvii.  To present a report on the Society's activities at all AGM and EGMs
-            xviii. To, at the completion of one’s term of office, acquaint the members of the incoming Executive with their duties and responsibilities
+            xviii. To, at the completion of one's term of office, acquaint the members of the incoming Executive with their duties and responsibilities
      6.1.2. Secretary
             i.     To contribute to the management of the Society through the Executive by representing the administrative interests of the Revue and ensuring the Membership is kept informed
             ii.    To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Secretary
@@ -301,7 +301,7 @@ CSE Revue Society Constitution
             v.     To represent the Society at, or when unable to attend, ensure that the Society is represented at, all Arc Clubs general meetings
             vi.    To apply for Arc subsidies and grants, as appropriate, for all Society events, and to ensure all necessary criteria are met by the Society in applying for these
             vii.   To carry out other duties associated with those services provided or facilitated by Arc, including (but not limited to): booking indoor space for the Society activities through Venues and Events, booking outdoor space for Society activities through University Security, booking stalls for Orientation Week and other University open days through Arc
-            viii.  To liaise with the different departments of Arc in order to represent the Society’s interests to them and to ensure the Society takes full advantage of the opportunities offered by them
+            viii.  To liaise with the different departments of Arc in order to represent the Society's interests to them and to ensure the Society takes full advantage of the opportunities offered by them
             ix.    To be familiar with the services offered by Arc, to make other Executive members aware of these opportunities and ensure that the Society takes full advantage of them
             x.     To carry out other duties associated with those services provided or facilitated by Arc
      6.1.5. Producers
@@ -323,7 +323,7 @@ CSE Revue Society Constitution
             xvi.   Approve and then oversee the delivery of any required resources or equipment xvii. Organise and oversee the distribution and collection of ticketing, and ensure that the Theatre is adequately filled each night in order to meet financial obligations
             xviii. Organise the delivery of Front of House services in the Theatre during the Revue performance
             xix.   Oversee the delivery of wellbeing services for cast and crew during the Revue performance
-            xx.    To plan and coordinate, in consultation with Orgs, the Society’s social activities either directly or through the establishment of a Social Committee
+            xx.    To plan and coordinate, in consultation with Orgs, the Society's social activities either directly or through the establishment of a Social Committee
             xxi.   To assist with and monitor the physical, mental and emotional wellbeing of all Participants during the Revue performance
             xxii.  To ensure that all Participants who represent the Society to the public do so in an appropriate, responsible and mature manner, and maintain the good reputation of the Society on campus
      6.1.6. Directors
@@ -348,7 +348,7 @@ CSE Revue Society Constitution
             iv.    To oversee the Technical crew to ensure the competent technical management of the Society's production, in particular in the areas of lighting, sound, set construction and stage management
             v.     To be a source of information for lighting, sound, set and stage crew on their roles
             vi.    To liaise with Design personnel and Directors to oversee competent set design and construction for the production
-            vii.   To collaborate with the Directors to organise and establish the Stage Manager, stage crew and technical resources, and to respect the Directors’ creative control and direction.
+            vii.   To collaborate with the Directors to organise and establish the Stage Manager, stage crew and technical resources, and to respect the Directors' creative control and direction.
             viii.  To liaise with the NUTS Technical Director and inform the Executive of any matters involving the shared Barn space and any commitments or matters for discussion raised by NUTS that will affect the Society
             ix.    To attend and oversee the bump in and bump out for the production, and be present at the theatre on all show nights
             x.     To provide technical assistance to all technical staff prior, during and following show nights
@@ -364,11 +364,11 @@ CSE Revue Society Constitution
             xxi.   To ensure that new and inexperienced crew are given the opportunity to participate to build their skills and ensure that the Society has a sustainable pool of experienced crew members for future productions
 6.2. The Organisational Standing Committee
      6.2.1. Orgs Participants
-            i.     To attend all Orgs Meetings as defined in Clause 7.5 during the term of each Participant’s responsibility to Orgs
+            i.     To attend all Orgs Meetings as defined in Clause 7.5 during the term of each Participant's responsibility to Orgs
             ii.    To contribute to the organisation of the Revue Performance through participation in Orgs by representing the Committee or Executive in the capacity of HOC or Executive Member, and contributing to policy formation and decision making iii. To brief Orgs on the activities of the Committee or Executive
             iv.    To liaise with other Orgs Participants through Orgs to coordinate activities to deliver the Revue Performance
             v.     To contribute to decision making at Orgs Meetings by
-            vi.    To at all times consult Orgs prior to making decisions that will impact other Committees, or that are outside the Committee Member’s direct responsibility
+            vi.    To at all times consult Orgs prior to making decisions that will impact other Committees, or that are outside the Committee Member's direct responsibility
             vii.   To consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Orgs
 6.3. Committees
      6.3.1. Head of Committee (HOC)
@@ -378,29 +378,29 @@ CSE Revue Society Constitution
             iv.    To represent their Committee on Orgs by attending all Orgs Meetings as defined in Clause 7.5 from two weeks prior to the formation of the Committee through until the Orgs debrief, or as required by the Executive
             v.     To attend and act as Chairperson for all Committee Meetings as defined in Clause 7.6
             vi.    To consult Orgs prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Committee
-            vii.   To liaise with the Executive in Charge to coordinate the Committee’s activities and respect their authority as the representative of the Society Executive
+            vii.   To liaise with the Executive in Charge to coordinate the Committee's activities and respect their authority as the representative of the Society Executive
             viii.  To be proactive in sourcing information when required, and to actively seek out instructions and offer solutions to Orgs, the Executive in Charge or the Executive as appropriate
             ix.    To provide or source appropriate training, resources, facilities or other materials to allow the Committee to complete the tasks assigned to it by Orgs or the Executive
             x.     To ensure Committee Participants are informed of Society social events and encourage them to participate in these
-            xi.    To monitor the physical, mental and emotional wellbeing of the Committee’s Participants
+            xi.    To monitor the physical, mental and emotional wellbeing of the Committee's Participants
      6.3.2. Committee Secretary (CS)
             i.     To attend and act as Minute Taker for all Committee Meetings as defined in Clause 7.6
             ii.    To liaise with the Committee Head to organise Committee Meetings, room bookings and other appropriate facilities
             iii.   To hold and maintain on behalf of the Committee copies of all minutes, paperwork, files and other data
             iv.    To forward to the Society Executive copies of all Minutes for distribution to Orgs as required or when instructed to do so
-            v.     To maintain the Committee’s mailing list/s and the Society Membership database, and keep the Society Secretary informed of participation in the Committee
+            v.     To maintain the Committee's mailing list/s and the Society Membership database, and keep the Society Secretary informed of participation in the Committee
      6.3.3. Committee Financial Officer (CFO)
             i.     To keep the Committee Head briefed of the current financial status of the Committee at all times
             ii.    To attend all Committee Meetings as defined in Clause 7.6
             iii.   To assist with the preparation of the Budget and attend the Orgs Budget Meeting as defined in Clause 7.9
             iv.    To approve all financial transactions for the Committee through the processes outlined in Clauses 8.3 and 8.4
-            v.     To liaise with the Treasurer to inform and proactively monitor the Committee’s finances
+            v.     To liaise with the Treasurer to inform and proactively monitor the Committee's finances
             vi.    To collect and forward all receipts to the Treasurer for authorised spending and keep appropriate financial records for the Committee
      6.3.4. Executive in Charge
             i.     To monitor all activities for the Committee, provide guidance and assist with the coordination of activities with other Committees
             ii.    To respect the authority and autonomy of the Committee Head in decision making at Committee level
             iii.   To attend all Committee Meetings as defined in Clause 7.6 for the Committee
-            iv.    To liaise with the Committee Head to provide funding, personnel and other resources as required to assist with the Committee’s activities
+            iv.    To liaise with the Committee Head to provide funding, personnel and other resources as required to assist with the Committee's activities
             v.     To provide decisions for the Committee on behalf of the Executive when required due to time constraints
 6.4. Meeting Roles
      6.4.1. Chairperson
@@ -457,7 +457,7 @@ CSE Revue Society Constitution
             7.1.5.1. Members should notify the Chair of their intention to do so at least one (1) day prior to the relevant Meeting
             7.1.5.2. If the Meeting is determined by the Executive to be of sensitive nature by the passing of a Motion, they can notify the membership at any time that the meeting will be closed to observers
      7.1.6. Motions are carried in a meeting by:
-            7.1.6.1. Unless otherwise specified, the quorum for a Motion shall be three (3) non- Advisory persons
+            7.1.6.1. Unless otherwise specified, the quorum for a Motion shall be three (3) non-Advisory persons
             7.1.6.2. A Motion is put forward to the Chairperson by a non-Advisory participant and must be seconded by another participant for the Chairperson to proceed
             7.1.6.3. The Chairperson must call for final cases to be presented with a maximum of five (5) minutes allocated to this task for items of business previously debated, and fifteen (15) minutes for new items of business
             7.1.6.4. The Chairperson calls for a vote, which is conducted by either secret ballot or by a show of hands at their discretion
@@ -470,7 +470,7 @@ CSE Revue Society Constitution
             7.1.7.1. Appointed at the discretion of the Chairperson
             7.1.7.2. An Attender who is not also the Chairperson or Minute Taker, as defined by Clauses 7.1.2 through 7.1.4
             7.1.7.3. An Attender who did not Raise or Second the Motion to be voted upon
-7.2. Annual General Meeting (“AGM” herein)
+7.2. Annual General Meeting ("AGM" herein)
      7.2.1. There shall be one AGM each calendar year, held on a day not within the University exam period
      7.2.2. Notice for the AGM shall be given no less than seven (7) days prior, and is to be:
             7.2.2.1. Given in writing to Arc
@@ -490,7 +490,7 @@ CSE Revue Society Constitution
             7.2.7.4. Any motions to change the constitution shall take place
             7.2.7.5. Other Motions will be discussed and voted on
      7.2.8. Full minutes of this meeting, including a list of the new Executive, written financial reports and constitutional amendments, shall be forwarded to Arc within ten (10) academic days of the meeting
-7.3. Extraordinary General Meeting (“EGM” herein)
+7.3. Extraordinary General Meeting ("EGM" herein)
      7.3.1. An EGM shall be held on a day not within the University exam period
      7.3.2. The format, procedures, notice, agenda and quorum for an EGM shall be the same as for the AGM, except that Executive Elections will not occur unless specifically notified
      7.3.3. An EGM is called when:
@@ -518,7 +518,7 @@ CSE Revue Society Constitution
             7.4.4.3. Attenders, Executive Members as defined in Clause 3.4.1
             7.4.4.4. Advisors, Non-Executive Members as defined in Clause 3.4.2 who do not require permission of the Chairperson, and other Advisors at the discretion of the Executive
      7.4.5. This meeting shall have all other procedures and processes as defined in Section 7.1
-7.5. Organisational Standing Committee Meetings (here in “Orgs Meetings”)
+7.5. Organisational Standing Committee Meetings (here in "Orgs Meetings")
      7.5.1. Occur no less than once every four (4) weeks, for the duration of the Orgs Term as defined in Clause 4.11.
      7.5.2. Notice for the meeting shall be circulated to all Members no less than three (3) business days prior, and the agenda circulated no less than one (1) business day prior
      7.5.3. Quorum for an Orgs Meeting shall be no less than half (1/2) the Orgs body as defined in Clause 4.4
@@ -555,7 +555,7 @@ CSE Revue Society Constitution
             7.7.5.4. All outstanding business will be disclosed to the incoming Executive
             7.7.5.5. Only business and Motions involving the outgoing Executive may be discussed or vote on
      7.7.6. This meeting shall otherwise have all other procedures and processes as defined in Section 7.4
-7.8. The Organisational Standing Committee Debrief (herein “Orgs Debrief”)
+7.8. The Organisational Standing Committee Debrief (herein "Orgs Debrief")
      7.8.1. Occur no less than five (5) days after bump-out. In most cases this will be once each calendar year following the last show night.
      7.8.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) days prior
      7.8.3. Quorum for the meeting shall be no less than two thirds (2/3) of the Members of Orgs as defined in Clause 4.4
@@ -571,7 +571,7 @@ CSE Revue Society Constitution
             7.8.5.4. No other Motions may be voted on at this meeting
      7.8.6. The minutes for this meeting shall be compiled into a Debrief Document and distributed to all members of Orgs within seven (7) business days
      7.8.7. This meeting shall otherwise have all other procedures and processes as defined in Section 7.5
-7.9. The Organisational Standing Committee Budget Meeting (herein “Orgs Budget Meeting”):
+7.9. The Organisational Standing Committee Budget Meeting (herein "Orgs Budget Meeting"):
      7.9.1. Occur no less than three (3) months after the commencement of the Executive Term
      7.9.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) business days prior
      7.9.3. Quorum for the meeting shall be no less than three quarters (3/4) of the Members of Orgs as defined in Clause 4.4
@@ -579,7 +579,7 @@ CSE Revue Society Constitution
             7.9.4.1. Chaired by the Treasurer
             7.9.4.2. Minutes taken by the Secretary
             7.9.4.3. Attenders, all Members of Orgs as defined in Clause 4.4, or where the Committee Head cannot attend the CFO for that Committee
-            7.9.4.4. Advisors, the Committee Financial Officer (herein “CFO”) for each Committee who are attending in addition to their respective Committee Head
+            7.9.4.4. Advisors, the Committee Financial Officer (herein "CFO") for each Committee who are attending in addition to their respective Committee Head
      7.9.5. At this meeting:
             7.9.5.1. The Income Projection prepared by the Treasurer will be presented
             7.9.5.2. Each Preliminary Budget request prepared by the CFO will be presented
@@ -629,7 +629,7 @@ CSE Revue Society Constitution
      8.2.4. The Executive shall establish the Budget for the Executive Term by:
             8.2.4.1. Preparing and passing a Budget for the Society as per the procedure defined in Clause 7.9
             8.2.4.2. Set the opening balances for Accrual accounts as determined by the Budget
-            8.2.4.3. Determine access rights to the appropriate Accrual account/s for each Committee by briefing and approving the Committee Financial Officer (“CFO” herein) as defined in Clause 5.4.3
+            8.2.4.3. Determine access rights to the appropriate Accrual account/s for each Committee by briefing and approving the Committee Financial Officer ("CFO" herein) as defined in Clause 5.4.3
      8.2.5. The Budget may be amended at any time by the Executive with the passing of a Motion
      8.2.6. While the Budget for the Executive Term is in effect, the authorised CFO shall be able to access funding from their appropriate Accrual account/s as defined in the Budget:
             8.2.6.1. If and only if the Accrual Account has not exceeded its allocated limit as defined by the Budget
@@ -648,7 +648,7 @@ CSE Revue Society Constitution
             8.2.10.2. Zero for all other accounts
 8.3. Petty Cash may be maintained by Committees under the supervision of the Committee Financial Officer (CFO)
      8.3.1. Committees may withdraw up to 20% of their approved budget in petty cash with the authorisation of a Producer
-     8.3.2. The CFO submits a Purchase Order as defined in Clause 8.4 for “Petty Cash”
+     8.3.2. The CFO submits a Purchase Order as defined in Clause 8.4 for "Petty Cash"
      8.3.3. The Treasurer will issue a Petty Cash Order form containing a PO order number to the CFO for the approved amount
      8.3.4. A Cheque or Direct Deposit advance will be made to the CFO
      8.3.5. The CFO is responsible for ensuring that the Petty Cash account is kept in order and for collecting receipts and attaching these to the Petty Cash Order
@@ -693,19 +693,19 @@ CSE Revue Society Constitution
      9.2.1. The Executive shall prepare an application form for candidates including details of positions and duties; and the number of Producers and Director candidates that will be presented to the mandatory EGM, as determined by Clause 7.8.5.3
      9.2.2. The Executive shall call for candidates by notifying the entire membership and any interested parties of the availability of the application form with at least fourteen (14) days prior to the date for the lodgement of applications
      9.2.3. Late applications will not be accepted
-     9.2.4. Copies of each candidate’s form shall be forwarded to all members of the Reflection Panel at least two (2) business days prior to the Reflection Panel meeting
+     9.2.4. Copies of each candidate's form shall be forwarded to all members of the Reflection Panel at least two (2) business days prior to the Reflection Panel meeting
      9.2.5. The Reflection Panel, as defined in Clause 7.10, shall meet to consider all applications:
             i.     The Reflection Panel shall convene to briefly review each application and compile a list of any specific questions to ask each candidate
-            ii.    Each candidate shall in turn be invited into the Reflection Panel for a short interview running no longer than fifteen (15) minutes where the Panel will be able to ask questions to clarify each candidate’s submission
+            ii.    Each candidate shall in turn be invited into the Reflection Panel for a short interview running no longer than fifteen (15) minutes where the Panel will be able to ask questions to clarify each candidate's submission
             iii.   The Reflection Panel shall again review each candidate in turn and discuss in detail their:
                      i.     Written application
                      ii.    Interview responses
                      iii.   Suitability for the roles applied for
-                     iv.    After each Motion, each member of the panel shall write a brief 2-3 line assessment of the candidate’s strengths and weaknesses. These will be compiled by the Minute Taker at the end of the meeting into a single anonymous feedback document for each candidate.
+                     iv.    After each Motion, each member of the panel shall write a brief 2-3 line assessment of the candidate's strengths and weaknesses. These will be compiled by the Minute Taker at the end of the meeting into a single anonymous feedback document for each candidate.
      9.2.6. All candidates shall be provided with their anonymous feedback within two (2) business days in writing by the Chairperson. Candidates must be notified prior to the publishing of final candidate list to the membership.
      9.2.7. Candidates will be invited to submit a blurb and prepare a speech for presentation at the mandatory EGM, the length of each to be determined by the Executive
      9.2.8. The Executive will call an mandatory EGM in accordance with Clause 7.3
-     9.2.9. The full list of Candidates, the positions they are applying for and each Candidate’s blurb shall be circulated to the full membership no less than seven (7) days prior to the mandatory EGM
+     9.2.9. The full list of Candidates, the positions they are applying for and each Candidate's blurb shall be circulated to the full membership no less than seven (7) days prior to the mandatory EGM
      9.2.10. For the purpose of Executive Elections, the following rules shall apply for the casting of votes:
             i.     All current Members shall be able to cast a single vote
             ii.    Only Members who attend the mandatory EGM in person shall be able to cast a vote
@@ -714,7 +714,7 @@ CSE Revue Society Constitution
                      ii.    The Proxy must register their intent to cast a proxy vote prior to the commencement of the mandatory EGM;
                      iii.   Any one Member can only act as proxy for a maximum of one (1) other member;
                      iv.    A Candidate cannot act as a proxy;
-                     v.     The Proxy’s vote shall for the sole purpose of the Executive Election count as two (2) votes;
+                     v.     The Proxy's vote shall for the sole purpose of the Executive Election count as two (2) votes;
                      vi.    A proxy cannot be empowered to vote on any other matter at an mandatory EGM, unless the mandatory EGM is not held on an academic day.
             iv.    Voting shall be by secret ballot. Ballots are completed on the ballot form by:
                      i.     Numbering Candidates in order of preference, from 1 to n where n must not exceed the number of Candidates where 1 is the most preferred and n the least preferred Candidate
@@ -727,8 +727,8 @@ CSE Revue Society Constitution
                      ii.    Any preference for a candidate will be counted as a vote of Confidence
                      iii.   A Candidate shall have Confidence if the ratio of valid ballots where a vote of Confidence has been recorded for the Candidate to the total number of valid ballots exceeds one-third (1/3)
                      iv.    The first x eligible Candidates who have Confidence, with the highest number of votes win, with eligibility in accordance with 3.6
-                     v.     In the case of deadlock, the Candidate with the highest first preference (“1”) votes wins
-                     vi.    In the case of subsequent continued deadlock, each Candidate’s subsequent preferences will be counted in turn until the first preference with the highest number of votes breaks the deadlock
+                     v.     In the case of deadlock, the Candidate with the highest first preference ("1") votes wins
+                     vi.    In the case of subsequent continued deadlock, each Candidate's subsequent preferences will be counted in turn until the first preference with the highest number of votes breaks the deadlock
                      vii.   In the case where all preferences are exhausted, the ballot will be declared invalid
                      viii.  Where the total number of valid ballots is less than the number of Members required for a Quorum as defined in Clause 7.2.4, the ballot will be declared invalid
                      ix.    Where a ballot has been declared invalid the membership shall be asked to re-cast their votes
@@ -742,7 +742,7 @@ CSE Revue Society Constitution
                      v.     Arc Delegate
                      vi.    President
             iii.   For each position the Chair shall call each Candidate in turn to present their prepared speech.
-            iv.    At the conclusion of a Candidate’s prepared speech, there is a period of three minutes whereby they are to answer any reasonable questions posed to them by the Society.
+            iv.    At the conclusion of a Candidate's prepared speech, there is a period of three minutes whereby they are to answer any reasonable questions posed to them by the Society.
             v.     At the conclusion of all speeches for each position, Members shall be asked to complete their Ballot papers and place these into the specified collection bins
             vi.    Ballots shall be counted by the nominated Ballot officers during the speeches for the next position
             vii.   The Chair shall announce the results of the Ballot at the end of the speeches

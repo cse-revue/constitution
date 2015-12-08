@@ -14,7 +14,7 @@
             7.1.5.1. Members should notify the Chair of their intention to do so at least one (1) day prior to the relevant Meeting
             7.1.5.2. If the Meeting is determined by the Executive to be of sensitive nature by the passing of a Motion, they can notify the membership at any time that the meeting will be closed to observers
      7.1.6. Motions are carried in a meeting by:
-            7.1.6.1. Unless otherwise specified, the quorum for a Motion shall be three (3) non- Advisory persons
+            7.1.6.1. Unless otherwise specified, the quorum for a Motion shall be three (3) non-Advisory persons
             7.1.6.2. A Motion is put forward to the Chairperson by a non-Advisory participant and must be seconded by another participant for the Chairperson to proceed
             7.1.6.3. The Chairperson must call for final cases to be presented with a maximum of five (5) minutes allocated to this task for items of business previously debated, and fifteen (15) minutes for new items of business
             7.1.6.4. The Chairperson calls for a vote, which is conducted by either secret ballot or by a show of hands at their discretion
@@ -27,7 +27,7 @@
             7.1.7.1. Appointed at the discretion of the Chairperson
             7.1.7.2. An Attender who is not also the Chairperson or Minute Taker, as defined by Clauses 7.1.2 through 7.1.4
             7.1.7.3. An Attender who did not Raise or Second the Motion to be voted upon
-7.2. Annual General Meeting (“AGM” herein)
+7.2. Annual General Meeting ("AGM" herein)
      7.2.1. There shall be one AGM each calendar year, held on a day not within the University exam period
      7.2.2. Notice for the AGM shall be given no less than seven (7) days prior, and is to be:
             7.2.2.1. Given in writing to Arc
@@ -47,7 +47,7 @@
             7.2.7.4. Any motions to change the constitution shall take place
             7.2.7.5. Other Motions will be discussed and voted on
      7.2.8. Full minutes of this meeting, including a list of the new Executive, written financial reports and constitutional amendments, shall be forwarded to Arc within ten (10) academic days of the meeting
-7.3. Extraordinary General Meeting (“EGM” herein)
+7.3. Extraordinary General Meeting ("EGM" herein)
      7.3.1. An EGM shall be held on a day not within the University exam period
      7.3.2. The format, procedures, notice, agenda and quorum for an EGM shall be the same as for the AGM, except that Executive Elections will not occur unless specifically notified
      7.3.3. An EGM is called when:
@@ -75,7 +75,7 @@
             7.4.4.3. Attenders, Executive Members as defined in Clause 3.4.1
             7.4.4.4. Advisors, Non-Executive Members as defined in Clause 3.4.2 who do not require permission of the Chairperson, and other Advisors at the discretion of the Executive
      7.4.5. This meeting shall have all other procedures and processes as defined in Section 7.1
-7.5. Organisational Standing Committee Meetings (here in “Orgs Meetings”)
+7.5. Organisational Standing Committee Meetings (here in "Orgs Meetings")
      7.5.1. Occur no less than once every four (4) weeks, for the duration of the Orgs Term as defined in Clause 4.11.
      7.5.2. Notice for the meeting shall be circulated to all Members no less than three (3) business days prior, and the agenda circulated no less than one (1) business day prior
      7.5.3. Quorum for an Orgs Meeting shall be no less than half (1/2) the Orgs body as defined in Clause 4.4
@@ -112,7 +112,7 @@
             7.7.5.4. All outstanding business will be disclosed to the incoming Executive
             7.7.5.5. Only business and Motions involving the outgoing Executive may be discussed or vote on
      7.7.6. This meeting shall otherwise have all other procedures and processes as defined in Section 7.4
-7.8. The Organisational Standing Committee Debrief (herein “Orgs Debrief”)
+7.8. The Organisational Standing Committee Debrief (herein "Orgs Debrief")
      7.8.1. Occur no less than five (5) days after bump-out. In most cases this will be once each calendar year following the last show night.
      7.8.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) days prior
      7.8.3. Quorum for the meeting shall be no less than two thirds (2/3) of the Members of Orgs as defined in Clause 4.4
@@ -128,7 +128,7 @@
             7.8.5.4. No other Motions may be voted on at this meeting
      7.8.6. The minutes for this meeting shall be compiled into a Debrief Document and distributed to all members of Orgs within seven (7) business days
      7.8.7. This meeting shall otherwise have all other procedures and processes as defined in Section 7.5
-7.9. The Organisational Standing Committee Budget Meeting (herein “Orgs Budget Meeting”):
+7.9. The Organisational Standing Committee Budget Meeting (herein "Orgs Budget Meeting"):
      7.9.1. Occur no less than three (3) months after the commencement of the Executive Term
      7.9.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) business days prior
      7.9.3. Quorum for the meeting shall be no less than three quarters (3/4) of the Members of Orgs as defined in Clause 4.4
@@ -136,7 +136,7 @@
             7.9.4.1. Chaired by the Treasurer
             7.9.4.2. Minutes taken by the Secretary
             7.9.4.3. Attenders, all Members of Orgs as defined in Clause 4.4, or where the Committee Head cannot attend the CFO for that Committee
-            7.9.4.4. Advisors, the Committee Financial Officer (herein “CFO”) for each Committee who are attending in addition to their respective Committee Head
+            7.9.4.4. Advisors, the Committee Financial Officer (herein "CFO") for each Committee who are attending in addition to their respective Committee Head
      7.9.5. At this meeting:
             7.9.5.1. The Income Projection prepared by the Treasurer will be presented
             7.9.5.2. Each Preliminary Budget request prepared by the CFO will be presented
