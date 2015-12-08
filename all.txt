@@ -1,0 +1,766 @@
+CSE Revue Society Constitution
+==============================
+
+1. Introduction
+
+1.1. The official name of the society shall be: Computer Science and Engineering Revue Society
+     1.1.1. The official abbreviated name of this society shall be: CSE Revue
+1.2. The Society shall be affiliated to Arc @ UNSW Limited.
+1.3. The society shall be affiliated to the School of Computer Science and Engineering as a Level 3 Society as defined by the School Development Office
+1.4. The aims and objectives of the Society are:
+     1.4.1. To deliver the CSE Revue Theatrical Production on an annual basis
+     1.4.2. To challenge traditional views and promote a modern image of what it means to be part of CSE
+     1.4.3. To proactively develop, promote, showcase and provide an outlet for the creative talent and skills within CSE
+     1.4.4. To maintain a mature and responsible administration that is realistic and accountable to its commercial sponsors
+     1.4.5. To maintain the integrity of the original Vision: to deliver an entertaining performance and enjoyable experience for the participants
+     1.4.6. To foster relationships with the wider campus community, to proactively develop a cooperative atmosphere for the exchange of ideas, support and mutual benefit.
+1.5. During the course of affiliation, the Society shall comply with any requirements of Arc @ UNSW Limited.
+1.6. In all matters not specifically dealt with herein, the procedures set out in the Guide of Meetings and Organisation by N.E.R Renton (5th Edition) shall apply.
+1.7.
+1.8. For the purposes of this Constitution:
+     1.8.1. The Society shall mean the CSE Revue Society
+     1.8.2. The University and UNSW shall mean the University of New South Wales
+     1.8.3. CSE shall mean the School of Computer Science and Engineering at the University of New South Wales
+     1.8.4. Arc shall mean Arc @ UNSW Limited.
+     1.8.5. Venues and Events shall mean the Venues and Events department of the Facilities Management unit of the University of New South Wales
+     1.8.6. Members shall mean all members of the Society as defined by Clause 2.4
+     1.8.7. The Executive shall mean the Executive of the Society as defined by Clause 3.1
+     1.8.8. Orgs shall mean the Organisational Standing Committee of the Society as defined by Clause 4.1
+     1.8.9. A Committee shall mean a Committee within the Society as defined by Clause 5.1
+     1.8.10. Participants shall mean Members who comprise part of a committee
+     1.8.11. The AGM shall mean the Annual General Meeting of the Society as defined by Clause 7.2
+     1.8.12. The EGM shall mean the Extraordinary General Meeting of the Society as defined by Clause 7.3
+     1.8.13. An academic day shall mean a day during the first or second session of the University's academic year which is not a Saturday, Sunday, Public Holiday or University Holiday
+     1.8.14. A business day shall mean any day of the year that is not a Saturday, Sunday, Public Holiday or within the University exam period
+     1.8.15. Bump-out shall mean the last activity carried out following the close of the last performance night, where the Theatre is vacated in accordance with the requirements of the venue hire agreement.
+     1.8.16. First Year Computing Course shall mean a stage 1 COMP course which is part of a program administered by CSE
+     1.8.17. The mandatory EGM shall mean the Extraordinary General Meeting held annually for Executive Elections as defined by Section 7.3.4
+1.9. The Society shall be bound by all the Clauses in Section 2 to Section 10 of this Constitution.
+1.10. Constitutional changes must be passed by motion at an Annual General Meeting or Extraordinary General Meeting, as detailed in Section 7.1
+1.11. Constitutional changes passed in accordance with Clause 1.9 do not take effect until ratified by Arc.
+
+
+2. Membership
+
+2.1. The list of members for the Society is to remain with the Executive and Arc to have sole access. The membership list is not to be given or sold to any other person, committee or organisation. Breaches of this guideline will cause a no confidence motion to be moved against the Executive and the matter will be forwarded to University Security and the Police.
+     2.1.1. The Executive shall at its discretion allow CSE, other Arc affiliated societies or clubs, or its official sponsors to send relevant notices via E-Mail to its membership through the Society Secretary, President or a Producer without the disclosure of the list constituents to the third party
+2.2. The Society shall be recognised as a Regular Club under the official Arc definition
+2.3. Membership to the Society is subject to the affiliation requirements of the Arc, completing a membership form and the payment of the membership fee, as determined by the Executive.
+     2.3.1. Membership cannot be granted between bump-out and the beginning of the Executive Term with the exception of Clause 2.5.1
+2.4. Members shall be classified as:
+     2.4.1. Full Members: any member who is a current UNSW student
+            2.4.1.1. CSE Members: any full member who is currently enrolled in an undergraduate program with an available major sequence in an area administered by CSE, and who has declared above relevant major sequence as their program major; or who is currently enrolled in a postgraduate program administered by CSE (research or coursework); or has graduated from such an undergraduate or postgraduate program; or is enrolled in Flexible First Year Engineering and is enrolled in a First Year Computing Course.
+     2.4.2. Associate Members: any member who is not a current UNSW student.
+2.5. The duration of a person's membership shall be:
+     2.5.1. Persons elected to the Executive as defined in Clause 3.4 at an AGM or EGM are classified as Members from the close of that AGM or EGM until the end of the Executive Term as defined in Clause 3.10
+     2.5.2. Subject to Clause 2.3.1, for all other persons from the date Clause 2.3 is met until the close of the Society’s next AGM.
+2.6. The Society shall not discriminate on the basis of gender, marital status, race, age, sexual preference or religion, in any of its activities or procedures, including the granting of Society Membership.
+2.7. Notwithstanding Clause 2.5, the Society Executive shall proactively seek to maintain 85% CSE Students as defined in Clause 2.4.1 in the composition of its Membership
+2.8. Notwithstanding Clause 2.5, any Member of the Society may have their membership terminated if:
+     2.8.1. They die
+     2.8.2. A motion is carried by the Executive
+     2.8.3. An Impeachment Motion is passed:
+            2.8.3.1. An Impeachment Proceeding is instigated when the Executive is petitioned by at least ten (10) CSE Members in writing
+            2.8.3.2. An EGM is called and the Proceeding included as a Motion, in accordance with the procedure outlined in Section 7.3
+            2.8.3.3. The Member concerned is notified in writing at least five (5) academic days prior to the EGM by the Executive
+            2.8.3.4. The Member is given five (5) minutes to speak against the motion at the EGM
+            2.8.3.5. The Motion is carried by a two-third (2/3) majority at the EGM
+2.9. Any Member of the Society who believes they have been wrongly expelled may appeal to Arc, who will arrive at the final resolution of the matter
+
+
+3. The Executive Body
+
+3.1. The Executive Body shall be the governing body of the Society that represents, and is empowered to make decisions on behalf of, the Society Members, and to determine policy to be enacted on by the Committees
+3.2. The Executive Body shall be responsible the following duties:
+     3.2.1. All financial related activities for the Society
+     3.2.2. Ensuring the successful delivery of the CSE Revue performance during its term
+     3.2.3. To oversee Orgs by:
+            3.2.3.1. Establishing Orgs by establishing the Committee structure, and inviting Members to take up positions as Committee Heads
+            3.2.3.2. To formulate draft policy and adequately brief, and then provide direction, in activities to be enacted on by Orgs and subsequently the Committees
+            3.2.3.3. To consult with Orgs prior to making final decisions that will affect Orgs
+            3.2.3.4. To ratify Policy amended by Orgs
+            3.2.3.5. To adjust schedules and budgets for Orgs as a whole in order to ensure Clause 1.3 and take necessary steps if required to ensure that these requirements are met
+     3.2.4. To oversee the Committees by:
+            3.2.4.1. Ensuring Orgs functions with respect to individual Committees, and facilitating liaison between Committees
+            3.2.4.2. To approve all final decisions for all major Committee activities
+            3.2.4.3. To consult with Committee Heads before making any decision that will affect those Committees
+            3.2.4.4. To ensure Committees remain on schedule and budget whole in order to ensure Clause 1.3, and take necessary steps if required to ensure that these requirements are met
+     3.2.5. To oversee the Membership by:
+            3.2.5.1. Establishing Membership within three (3) months of the commencement of its Term by advertising and facilitating a Membership day, providing membership forms and setting and collecting membership dues
+            3.2.5.2. Facilitating the participation of the Membership in the Revue activities through Expressions of Interest in Committees and making this information available to Orgs
+            3.2.5.3. Facilitate the social interaction of the Membership by organising, either directly or indirectly though a Social Committee, social events and providing appropriate funding
+3.3. The Executive Body is at all times bound by the decisions of an AGM or EGM
+3.4. The Executive Body shall consist of:
+     3.4.1. Executive Positions:
+            3.4.1.1. One (1) President
+            3.4.1.2. One (1) Secretary
+            3.4.1.3. One (1) Treasurer
+            3.4.1.4. One (1) Arc Delegate
+            3.4.1.5. At least two (2) and no more than three (3) Producers
+            3.4.1.6. At least two (2) and no more than three (3) Directors
+     3.4.2. Non-Executive Positions:
+            3.4.2.1. At least one (1) and no more than three (3) Technical Director(s)
+            3.4.2.2. Up to one (1) Past Executive Representative
+            3.4.2.3. Up to three (3) Assistant Producers
+            3.4.2.4. Up to three (3) Assistant Directors
+            3.4.2.5. Other Executive positions deemed by Arc as necessary may also be included subject to ratification at an AGM or EGM
+3.5. Members who fill Positions on the Executive Body are required to comply with the responsibilities and fulfill all their duties as appropriate according to the definitions in Section 6.1
+3.6. Fulfillment of Executive and Non-Executive Positions outlined in Clause 3.4 by Members are constrained by:
+     3.6.1. Up to two (2) Positions can be held by one person, providing that at least five (5) different Members remain on the Executive at any given time
+     3.6.2. No single Executive position can be shared by two (2) or more persons
+     3.6.3. There must be at least two (2) Directors, two (2) Producers and one (1) Technical Director each held by different people
+     3.6.4. The President must also be a Producer
+            3.6.4.1. Notwithstanding Clause 3.6.1, if each Producer also holds another Executive position that is not President, then a Producer may hold President as a third position.
+     3.6.5. The President must not also be the Treasurer
+     3.6.6. Notwithstanding Clause 2.6 the Executive Positions within the Executive Body defined in Clause 3.4.1
+            3.6.6.1. Must be held by CSE Members as defined in Clause 2.4.1.1, except for:
+            3.6.6.2. The President must be a CSE Full Member.
+            3.6.6.3. There may be at most One (1) Director who is a non-CSE Full Member, provided there are at least Two (2) Directors who are CSE Full Members.
+            3.6.6.4. There may be at most One (1) Producer who is a non-CSE Full Member, provided there are at least Two (2) Producers who are CSE Full Members.
+     3.6.7. No Member can hold a position on the Executive Body if they previously held a position on the Executive Body within the same Executive Term that was declared vacant in accordance with Clause 3.8, except where the position was declared vacant by Clauses 3.8.2 or 3.8.3.
+3.7. The selection of Members to Positions within the Executive Body is determined by:
+     3.7.1. Executive Members are elected to Positions from the membership body by universal suffrage in accordance with the procedures outlined in 9.2
+     3.7.2. Non-Executive Members are selected to Positions by a Motion carried by the Executive. With the exception of the Technical Director as defined in Clause 3.4.2.1, these positions may at the discretion of the Executive be left unfilled.
+3.8. Any Member of the Executive Body shall have their position declared vacant if:
+     3.8.1. They cease to be a Member of the Society
+     3.8.2. They are absent from any three (3) consecutive Executive meetings, as defined in Clause 7.4, without apology or leave
+     3.8.3. They tender in writing a letter of resignation addressed to the President
+            3.8.3.1. The President is obliged to accept any notice of resignation that has been correctly tendered and they believe is both considered and sincere
+     3.8.5. A Motion finding they have failed to comply with their obligations as defined in Clause 3.5 and declaring their position vacant is carried at an EGM where:
+            3.8.5.1. The EGM is called only in accordance with Clause 7.3.3.3
+            3.8.5.2. The Member concerned is notified in writing at least five (5) academic days prior to the EGM by the Executive
+            3.8.5.3. The Member is given five (5) minutes to speak against the motion at the EGM
+            3.8.5.4. The Motion is carried by a two-third (2/3) majority at the EGM
+            3.8.5.5. No proceedings for Executive Elections as defined in Clause 9.2 will commence from the date EGM is called until the close of the EGM
+3.9. Any vacancy on the Executive Body classified as an Executive Position as per Clause 3.4.1 must be filled at an EGM:
+     3.9.1. Where the vacancy must be filled and the EGM conducted under the same procedure as that used to establish the Executive defined in Clause 3.7.1, except that:
+            3.9.1.1. Notwithstanding Clause 9.2.2, the Executive shall call for Candidates at least seven (7) days prior to the lodgment of applications
+            3.9.1.2. Notwithstanding Clause 7.3.2, Notice and Agenda for the EGM shall be given no less than seven (7) days prior to all relevant parties
+     3.9.2. Except in the case where the vacancy is that of a Director or Producer, and:
+            3.9.2.1. The minimum quota for Producers defined in Clause 3.4.1.5 is still met
+            3.9.2.2. The minimum quota for Directors defined in Clause 3.4.1.6 is still met
+            3.9.2.3. The constraints defined in Clause 3.6 are still met.
+3.10. The Executive Term is defined as:
+      3.10.1. Beginning at the close of the Transitional Executive Meeting as defined in Clause 7.7
+      3.10.2. Running for at least nine (9) months, and for no more than fourteen (14) months, subject to Clause 3.10.4 and Clause 3.10.5 and the rules governing Executive Elections within the AGM as defined in Clause 7.2
+      3.10.3. Ending at the close of the Transitional Executive Meeting as defined in Clause 7.7 or when dissolved in accordance with Clause 3.10.4 or 3.10.5
+      3.10.4. Ending with the dissolution of the Society as defined in Section 10; or
+      3.10.5. Ending with the dissolving of the Executive Body with the passing of a No-Confidence Motion at an EGM:
+              3.10.5.1. A No-Confidence Proceeding is instigated when the Executive is petitioned to call an EGM in accordance with Clause 7.3.3.3
+              3.10.5.2. From the date of receipt of the petition, all Society finances are frozen and pending business, other than that required to fulfil Clause 3.10.5.4, is suspended until the proceeding is finalised. The Treasurer must notify any creditors of the situation within 5 business days
+              3.10.5.3. At the EGM, after the petitioning body has stated its case, any opposition must be given the opportunity to reply, with at least fifteen (15) minutes set aside for this purpose
+              3.10.5.4. If the Motion is carried by the EGM, the Executive Election Process commences as defined in Clause 9.2
+3.11. Any motion that bestows privileges, financial or otherwise, on either the Executive as a whole or any member of the Executive body, must be ratified by Orgs in accordance with Clause 4.2.8.
+3.12. Executive Meetings and Motions are carried out in accordance with the procedures outlined in Clause 7.4.
+
+
+4. The Organisational Standing Committee (Orgs)
+
+4.1. Orgs shall be the supervisory body responsible for the oversight of the Committees as defined in Section 5, and administrated by the Executive as defined in Section 3
+4.2. Orgs shall be responsible for the following duties:
+     4.2.1. Acting in coordination under the direction of the Executive
+     4.2.2. To assist with the formulation of Orgs Level Policy
+     4.2.3. To assist with the formulation of Orgs Schedules and Budget
+     4.2.4. To facilitate liaison between Committees and the Executive
+     4.2.5. To monitor and report immediately to the Executive any changes in budget, delivery of tasks or schedule
+     4.2.6. To consult with Committee Heads and Executive prior to making any decision
+     4.2.7. To approve all major decisions for all Committee activities, subject to ratification by the Executive
+     4.2.8. To ratify any motion passed by the Executive that bestows privileges, financial or otherwise, upon the Executive body as a whole or individual members of the Executive
+            4.2.8.1. Orgs may at its discretion choose to defer the ratification of these privileges to an EGM through Clause 7.3.3.2
+4.3. Orgs is at all times bound by the decisions of the Executive
+4.4. Orgs shall consist of:
+     4.4.1. All Members of the Executive Body as defined in Clause 3.4
+     4.4.2. All Committee Heads as defined in Clause 5.4.1
+4.5. Other Members may also attend Orgs Meetings by a Motion carried by the Executive Body. Members present at Orgs under this Clause are classified as Advisory participants and do not have the ability to vote on Motions brought before Orgs.
+4.6. Members who fill Orgs Positions are required to comply with the responsibilities and fulfil all their duties as outlined in Section 6.2
+4.7. Fulfilment of Orgs positions outlined in Clause 4.4 by Members are constrained by:
+     4.7.1. Any Member of the Executive Body may also hold up to one (1) additional Committee Head position on Orgs
+4.8. The selection of Members to positions on Orgs is determined by:
+     4.8.1. An existing position on the Executive Body as defined in Clause 3.4
+     4.8.2. A Motion carried by the Executive Body to establish a Member as a Committee Head according to Clause 5.8
+     4.8.3. A Motion carried by the Executive to establish a Member into a non-voting Orgs position as defined in Clause 4.5
+4.9. Any member of Orgs may have their position declared vacant if they:
+     4.9.1. Cease to be a Member of the Society
+     4.9.2. Cease to be a Committee Head or member of the Executive Body
+     4.9.3. Are absent from two (2) or more required Orgs Meetings as defined in Clause 7.5, without apology or leave
+     4.9.4. A Motion is carried by the Executive Body
+4.10. Any vacancy on Orgs must be filled in accordance with Clause 4.8, with the exception of non-voting roles as defined in Clause 4.5, which are subject to the discretion of the Executive Body.
+4.11. The Orgs Term is defined as:
+     4.11.1. Commencing with the First Orgs Meeting as determined by the Executive Body
+     4.11.2. Running for at least three (3) months and no longer than the duration of the Executive Term as defined in Clause 3.10, subject to Clause 4.11.4
+     4.11.3. Ending at the close of the Orgs Debrief as defined in Clause 7.8, subject to Clause 4.11.4
+     4.11.4. Dissolved with the Dissolving of the Executive Body as defined in Clause 3.10.4
+4.12. Orgs Meetings and Motions are carried out in accordance with the procedures outlined in Clause 7.5
+
+
+5. The Committees
+
+5.1. Committees shall be individual groups composed of Members that undertake the various tasks required to achieve the objectives stated in Clause 1.3, under the direction and supervision of Orgs and the Executive Body.
+5.2. The Committees shall be responsible the following duties:
+     5.2.1. The timely delivery of tasks as defined by Orgs and/or the Executive Body
+     5.2.2. To operate within budget at all times
+     5.2.3. To proactively carry out all assigned activities without constant supervision by Orgs and/or the Executive Body
+     5.2.4. To coordinate activities with other Committees, either directly or via Orgs, or indirectly as required
+     5.2.5. To report to the Orgs and to the Executive on all activities
+5.3. Committees are at all times bound by the decisions of Orgs ratified by the Executive
+5.4. Each Committee will consist of:
+     5.4.1. One (1) or two (2) Committee Head(s)
+     5.4.2. One (1) Committee Secretary
+     5.4.3. One (1) Committee Financial Officer
+     5.4.4. One (1) Executive in Charge
+     5.4.5. One or more Committee Participants
+5.5. Other positions deemed by the Executive to be necessary for specific Committees may also be included
+5.6. Members who fill Committee Positions are required to comply with the responsibilities and fulfil all their duties as outlined in Section 6.3
+5.7. Fulfilment of Committee positions outlined in Clause 5.4 by Members are constrained by:
+     5.7.1. Any committee position can be held simultaneously by any one or combination of Participants
+5.8. Committees are:
+     5.8.1. Defined and formed by the Executive prior to the establishment of membership as defined by Clause 3.2.5.1
+     5.8.2. The Committee Head is determined by a motion by the Executive as defined in Clause 3.2.3.1
+     5.8.3. Other Committee positions are filled by the Committee Head and approved by Orgs
+     5.8.4. Committees are populated with Participants through the process determined by the Committee Head, approved by Orgs. In most cases this will be through a facilitated membership day as defined in Clause 3.2.5.1
+5.9. Any Participant of a Committee can be removed from a Committee if they:
+     5.9.1. Cease to be a Member of the Society
+     5.9.2. Are absent from any two (2) consecutive Committee meetings (as defined by Clause 7.6) without apology or leave
+     5.9.3. Are a Committee Head as defined in Clause 5.4.1 and are removed from Orgs in accordance with Clause 4.9
+     5.9.4. A Motion is passed by Orgs
+     5.9.5. A Motion is passed by the Executive
+5.10. Any vacancy on a Committee must be filled according the procedure outlined in Section 5.8
+5.11. The Committee Term is defined as:
+     5.11.1. Beginning at the commencement of its first Committee Meeting
+     5.11.2. Running for no longer than the duration of the current Orgs Term as defined in Clause 4.11
+     5.11.3. Ending with close of the Orgs Term as defined in Clause 4.11
+     5.11.4. Ending with the passing of a Motion by the Executive Body
+5.12. Committee Meetings and Motions are carried out in accordance with the procedures outlined in 7.1.
+
+
+6. Specific Duties of Roles
+
+6.1. The Executive Body
+     6.1.1. President
+            i.     To fulfil the role of Chairperson as defined by Clause 6.4.1 for all meetings defined by Clauses 7.2 through to 7.8, and 7.10
+            ii.    To contribute to the management of the Society through the Executive by representing the interests of Members and the Society’s goals and vision as a whole
+            iii.   To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the President
+            iv.    To oversee and coordinate the activities and administration of the Society
+            v.     To acquaint each Executive officer with their duties and responsibilities, and maintain personal contact with them.
+            vi.    To ensure that each member of the Executive, Orgs performs their duties as laid down in this constitution
+            vii.   To ensure that there are regular meetings of the Executive and Orgs as appropriate
+            viii.  To pro-actively ensure the smooth running of all the Society by liaising with Directors and Producers
+            ix.    To ensure that all other tasks necessary for the running of the society and its activities are performed properly, either by performing them one’s self or by delegating them.
+            x.     To, in consultation with the rest of the Executive and through discussion with Orgs, develop and pursue long term goals for the society
+            xi.    To have a thorough knowledge of this constitution and ensure that it is adhered to.
+            xii.   To act as official spokesperson for the Society
+            xiii.  To liaise with CSE and the Student Development Unit in order to represent the Society's interests to them and to resolve any problems that arise in their dealings with the Society
+            xiv.   To liaise with Arc, other University bodies and campus community groups as required in the running of the Society
+            xv.    To, in conjunction with the Secretary, establish and maintain relationships with other campus community groups, University bodies and off campus organisations, with the aim of promoting the Society and its activities.
+            xvi.   To, through liaison with the Secretary, identify, solicit and invite interest in the membership for potential future Executive members and invite them to participate in Advisory roles in appropriate meetings and or society activities in order to develop experience and skills
+            xvii.  To present a report on the Society's activities at all AGM and EGMs
+            xviii. To, at the completion of one’s term of office, acquaint the members of the incoming Executive with their duties and responsibilities
+     6.1.2. Secretary
+            i.     To contribute to the management of the Society through the Executive by representing the administrative interests of the Revue and ensuring the Membership is kept informed
+            ii.    To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Secretary
+            iii.   To organise all Meetings defined by Clauses 7.2 through to 7.5, and 7.7 through to 7.9, collect items of business for discussion, and prepare and distribute agendas for these meetings, in consultation with the President and provide this material to the President prior to the meeting
+            iv.    To be responsible for receiving all correspondence (conventional and e-mail) on behalf of the Society
+            v.     To send all official correspondence (conventional and e-mail) on behalf of the Society including that send to members
+            vi.    To fulfil the duties of Minute Taker as defined in Clause 6.4.2 for the purpose of the meetings defined in Clauses 7.2 through to 7.5, and 7.7 through to 7.9
+            vii.   To coordinate the activities of the Reflection Panel defined by Clause 7.10
+            viii.  To maintain a database of members and their details
+            ix.    To be responsible for the signing up of new members including the collection of Membership forms and dues as defined by Clause 2.3
+            x.     To keep all documents belonging to the Society in order
+            xi.    To maintain an archive of publicity material and documents of historical interest
+            xii.   To retain a selection of publicity material for the current year's performance for marketing purposes in the subsequent year
+            xiii.  To, in conjunction with the President, establish and maintain relationships with other campus community groups, University bodies and off campus organisations, with the aim of promoting the Society and its activities
+            xiv.   To ensure that the Society remains affiliated with Arc by seeing that an Application for affiliation form and other appropriate paperwork is submitted when required
+            xv.    To ensure that Arc is notified of any changes to the Executive.
+     6.1.3. Treasurer
+            i.     To fulfil the role of Attender as defined by Clause 6.4.3 at the Meetings defined by clauses 7.2 through to 7.8, and 7.10
+            ii.    To contribute to the management of the Society through the Executive by representing the financial interests of the Revue. To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Treasurer.
+            iv.    To fulfil the role of Chairperson as defined by Clause 6.4.1 at the Budget meeting defined by Clause 7.9.
+            v.     To keep and maintain the Society's financial records, of which these must be open to inspection by Arc at any time.
+            vi.    To ensure records are kept both up-to-date and in good order.
+            vii.   To hold cheque books, cash boxes, etc.
+            viii.  To keep the Executive and Orgs informed of its financial position.
+            ix.    To present a report on the Society's finances at all Annual and Extraordinary General Meetings.
+            x.     To carry out financial transactions after due process in accordance with the procedures outlined in Section 8 as approved by a Producer or as instructed by the Executive.
+            xi.    To organise petty cash floats when required at the request of Committee Heads and as approved by Producers.
+            xii.   To reconcile all accounts in accordance with the minimum requirements defined in Section 8.
+            xiii.  To ensure all money received by the Society is banked promptly.
+            xiv.   To ensure that no Society money is spent without due process as outlined in Section 8.
+            xv.    To ensure that Society monies are not misused at any time.
+            xvi.   To ensure the Society does not take on a debt it cannot repay.
+            xvii.  To ensure the Society maintains a realistic cash position and cash flow.
+            xviii. To ensure the Society maintains a positive net accrual position at all times.
+            xix.   To pro-actively ensure the competent financial management of Society activities by Producer.
+            xx.    To be a source of information for Producers on role of Treasurer.
+            xxi.   To organise any change of signatories required when there is a change in the membership of the Executive.
+            xxii.  To ensure all financial records are handed over to the incoming Treasurer at the end of term.
+     6.1.4. Arc Delegate
+            i.     To fulfil the role of Attender as defined by Clause 6.4.3 at the Meetings defined by Clauses 7.2 through to 7.8, and 7.10.
+            ii.    To contribute to the management of the Society through the Executive by representing Arc and as the representative of the Membership to Arc.
+            iii.   To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Arc Delegate.
+            iv.    To be familiar with the services offered by Arc, to make other executive members aware of these opportunities and ensure that the Society takes full advantage of these.
+            v.     To represent the Society at, or when unable to attend, ensure that the Society is represented at, all Arc Clubs general meetings
+            vi.    To apply for Arc subsidies and grants, as appropriate, for all Society events, and to ensure all necessary criteria are met by the Society in applying for these
+            vii.   To carry out other duties associated with those services provided or facilitated by Arc, including (but not limited to): booking indoor space for the Society activities through Venues and Events, booking outdoor space for Society activities through University Security, booking stalls for Orientation Week and other University open days through Arc
+            viii.  To liaise with the different departments of Arc in order to represent the Society’s interests to them and to ensure the Society takes full advantage of the opportunities offered by them
+            ix.    To be familiar with the services offered by Arc, to make other Executive members aware of these opportunities and ensure that the Society takes full advantage of them
+            x.     To carry out other duties associated with those services provided or facilitated by Arc
+     6.1.5. Producers
+            i.     To fulfil the role of Attender as defined by Clause 6.4.3 at the Meetings defined by Clauses 7.2 through to 7.10
+            ii.    To contribute to the management of the Society through the Executive by representing the administrative interests of the Revue
+            iii.   To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Producer
+            iv.    To provide and oversee the processes required to successfully and responsibly administer, fund and deliver the Revue performance
+            v.     To liaise with the Secretary to organise appropriate meetings, communications, and to establish and oversee the Membership
+            vi.    To liaise with the Treasurer to prepare appropriate budgets, funding projections, financial tracking procedures and other finance related matters to ensure the Society and Revue performance are appropriately and responsibly financed, and that these are enforced
+            vii.   To authorise all financial transactions
+            viii.  To liaise with Directors to understand the creative vision and requirements for the Revue Production and formulate appropriate schedules, deadlines, policies and procedures to see that these can be implemented
+            ix.    To liaise with the Technical Director to ensure that all participants recognise their authority during the Revue performance
+            x.     Oversee the establishment of a realistic schedule to ensure the delivery of the Revue Production
+            xi.    Oversee the formation and smooth running of Orgs by soliciting, finalising and then monitoring Committee Heads
+            xii.   Coordinate the delivery of the Revue production by overseeing communication between Committees and other relevant people
+            xiii.  To oversee the preparation of the marketing strategy and materials; identify, approach and close sponsorship arrangements with corporate sponsors for the Revue production; and ensure that all obligations to these sponsors are met, to provide funding for the Revue performance
+            xiv.   To be the facilitator of applications for Arc Campus Community grants and to ensure all grant requirements are met
+            xv.    Oversee and ensure the delivery, and then distribution, of promotional material and procedures
+            xvi.   Approve and then oversee the delivery of any required resources or equipment xvii. Organise and oversee the distribution and collection of ticketing, and ensure that the Theatre is adequately filled each night in order to meet financial obligations
+            xviii. Organise the delivery of Front of House services in the Theatre during the Revue performance
+            xix.   Oversee the delivery of wellbeing services for cast and crew during the Revue performance
+            xx.    To plan and coordinate, in consultation with Orgs, the Society’s social activities either directly or through the establishment of a Social Committee
+            xxi.   To assist with and monitor the physical, mental and emotional wellbeing of all Participants during the Revue performance
+            xxii.  To ensure that all Participants who represent the Society to the public do so in an appropriate, responsible and mature manner, and maintain the good reputation of the Society on campus
+     6.1.6. Directors
+            i.     To fulfil the role of Attender as defined by Clause 6.4.3 at the Meetings defined by Clauses 7.2 through to 7.10
+            ii.    To contribute to the management of the Society through the Executive by representing the creative interests of the Revue
+            iii.   To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Director
+            iv.    To provide and oversee the creative vision of the Revue production
+            v.     To liaise with Producers determine the appropriate scheduling and deadlines, and to develop appropriate policies and procedures to ensure the creative vision can be responsibly implemented
+            vi.    To liaise with the Treasurer in collaboration with the Producers to ensure that the creative vision can be responsibly financed
+            vii.   To liaise with the Technical Director to ensure that the creative vision is technically viable and resourced
+            viii.  To liaise with Committee Heads to facilitate the delivery of the Revue Production
+            ix.    To collaborate with the Technical Director and Design personnel to oversee set and prop design and construction
+            x.     To collaborate with the Technical Director to organise the Stage Manager, stage crew and to respect the authority of the Technical Director during rehearsal and show runs
+            xi.    To collaborate with key creative personnel such as choreographers, vocal directors, band director, etc. to implement and deliver the creative vision of the Revue Production
+            xii.   To organise and facilitate script writing workshops and performance rehearsals
+            xiii.  To encourage Members to participate in Society social, team building and motivational events
+            xiv.   To assist with and monitor the physical, mental and emotional wellbeing of all Members during the Revue performance
+     6.1.7. The Technical Director
+            i.     To fulfil the role of Attender as defined by Clause 6.4.3 at the Meetings defined by Clauses 7.2 through to 7.10
+            ii.    To contribute to the management of the Society through the Executive by representing the technical interests of the Revue
+            iii.   To at all times to consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Technical Director
+            iv.    To oversee the Technical crew to ensure the competent technical management of the Society's production, in particular in the areas of lighting, sound, set construction and stage management
+            v.     To be a source of information for lighting, sound, set and stage crew on their roles
+            vi.    To liaise with Design personnel and Directors to oversee competent set design and construction for the production
+            vii.   To collaborate with the Directors to organise and establish the Stage Manager, stage crew and technical resources, and to respect the Directors’ creative control and direction.
+            viii.  To liaise with the NUTS Technical Director and inform the Executive of any matters involving the shared Barn space and any commitments or matters for discussion raised by NUTS that will affect the Society
+            ix.    To attend and oversee the bump in and bump out for the production, and be present at the theatre on all show nights
+            x.     To provide technical assistance to all technical staff prior, during and following show nights
+            xi.    To maintain an inventory of all set pieces and tools belonging to, or used by, the Society
+            xii.   To ensure Society, hired, shared and borrowed property is respected and any rules set down by the hirer are adhered to
+            xiii.  To oversee and ensure all shared, hired or borrowed property is returned in good condition
+            xiv.   To ensure that Producers are immediately notified of any damage to shared, hired or borrowed equipment
+            xv.    To ensure that Producers are immediately notified of any potential safety risks xvi. To ensure that the excess building materials resulting from the Production are recycled or disposed of as appropriate by the technical crew and to, where necessary, arrange for the disposal of waste building materials
+            xvii.  To organise workshops and other training opportunities for members in lighting, sound, stage management, etc.
+            xviii. To generate interest, amongst members and prospective members, in all areas of technical production.
+            xix.   To ensure the Society's production has a committed and suitably experienced crew
+            xx.    To source crew members, as required, to work on the Society production. This may be done by, in conjunction with the secretary, soliciting interest from amongst members and maintaining a database of members who wish to take on technical roles
+            xxi.   To ensure that new and inexperienced crew are given the opportunity to participate to build their skills and ensure that the Society has a sustainable pool of experienced crew members for future productions
+6.2. The Organisational Standing Committee
+     6.2.1. Orgs Participants
+            i.     To attend all Orgs Meetings as defined in Clause 7.5 during the term of each Participant’s responsibility to Orgs
+            ii.    To contribute to the organisation of the Revue Performance through participation in Orgs by representing the Committee or Executive in the capacity of HOC or Executive Member, and contributing to policy formation and decision making iii. To brief Orgs on the activities of the Committee or Executive
+            iv.    To liaise with other Orgs Participants through Orgs to coordinate activities to deliver the Revue Performance
+            v.     To contribute to decision making at Orgs Meetings by
+            vi.    To at all times consult Orgs prior to making decisions that will impact other Committees, or that are outside the Committee Member’s direct responsibility
+            vii.   To consult the Executive prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Orgs
+6.3. Committees
+     6.3.1. Head of Committee (HOC)
+            i.     To lead, oversee and provide direction for the Committee Participants
+            ii.    To assist the Executive with the forming of the Committee by soliciting appropriate Participants to participate in the activities of the Committee
+            iii.   To encourage participation in the Committee of all Participants who express an interest in being involved, and to the best extent possible facilitate their ability to do so
+            iv.    To represent their Committee on Orgs by attending all Orgs Meetings as defined in Clause 7.5 from two weeks prior to the formation of the Committee through until the Orgs debrief, or as required by the Executive
+            v.     To attend and act as Chairperson for all Committee Meetings as defined in Clause 7.6
+            vi.    To consult Orgs prior to making decisions that will impact the Society, Revue or Membership as a whole, or that are outside the direct responsibility of the Committee
+            vii.   To liaise with the Executive in Charge to coordinate the Committee’s activities and respect their authority as the representative of the Society Executive
+            viii.  To be proactive in sourcing information when required, and to actively seek out instructions and offer solutions to Orgs, the Executive in Charge or the Executive as appropriate
+            ix.    To provide or source appropriate training, resources, facilities or other materials to allow the Committee to complete the tasks assigned to it by Orgs or the Executive
+            x.     To ensure Committee Participants are informed of Society social events and encourage them to participate in these
+            xi.    To monitor the physical, mental and emotional wellbeing of the Committee’s Participants
+     6.3.2. Committee Secretary (CS)
+            i.     To attend and act as Minute Taker for all Committee Meetings as defined in Clause 7.6
+            ii.    To liaise with the Committee Head to organise Committee Meetings, room bookings and other appropriate facilities
+            iii.   To hold and maintain on behalf of the Committee copies of all minutes, paperwork, files and other data
+            iv.    To forward to the Society Executive copies of all Minutes for distribution to Orgs as required or when instructed to do so
+            v.     To maintain the Committee’s mailing list/s and the Society Membership database, and keep the Society Secretary informed of participation in the Committee
+     6.3.3. Committee Financial Officer (CFO)
+            i.     To keep the Committee Head briefed of the current financial status of the Committee at all times
+            ii.    To attend all Committee Meetings as defined in Clause 7.6
+            iii.   To assist with the preparation of the Budget and attend the Orgs Budget Meeting as defined in Clause 7.9
+            iv.    To approve all financial transactions for the Committee through the processes outlined in Clauses 8.3 and 8.4
+            v.     To liaise with the Treasurer to inform and proactively monitor the Committee’s finances
+            vi.    To collect and forward all receipts to the Treasurer for authorised spending and keep appropriate financial records for the Committee
+     6.3.4. Executive in Charge
+            i.     To monitor all activities for the Committee, provide guidance and assist with the coordination of activities with other Committees
+            ii.    To respect the authority and autonomy of the Committee Head in decision making at Committee level
+            iii.   To attend all Committee Meetings as defined in Clause 7.6 for the Committee
+            iv.    To liaise with the Committee Head to provide funding, personnel and other resources as required to assist with the Committee’s activities
+            v.     To provide decisions for the Committee on behalf of the Executive when required due to time constraints
+6.4. Meeting Roles
+     6.4.1. Chairperson
+            i.     Fulfil all the duties of an Attender as defined in Clause 6.4.3
+            ii.    If the person fulfilling this role is unable to attend the relevant meeting they must organise another member to fulfil this role for the meeting prior to the notification of the meeting
+            iii.   Prepare the Meeting agenda and record and approve items of business to be discussed as submitted by attendees prior to the meeting
+            iv.    Approve the attendance of members in Advisory roles prior to the commencement of the meeting
+            v.     Formally Open and Close the Meeting
+            vi.    Presenting items for discussion or debate vii. Facilitating discussion and debate
+            viii.  Facilitating Motions
+            ix.    Announce the result of votes conducted by secret ballot
+     6.4.2. Minute Taker
+            i.     Fulfil all the duties of an Attender as defined in Clause 6.4.3
+            ii.    If the person fulfilling this role is unable to attend the relevant meeting they must organise another member to fulfil this role for the meeting prior to the meeting
+            iii.   Keep minutes for the duration of the meeting, including:
+            iv.    Record apologies, attendees and absences for the meeting
+            v.     Summarise the key points of discussion or debate during the meeting
+            vi.    Record significant decisions or points to be followed up vii. Record the results of Motions
+            viii.  Read the minutes of the previous meeting, and submit them for approval, when instructed to do so by the Chairperson
+            ix.    Distribute copies of the Minutes to relevant participants within five (5) business days following the close of the meeting
+     6.4.3. Attenders
+            i.     Must attend all meetings in accordance with the rules governing attendance of such meetings
+            ii.    Must register items of business for discussion at the meeting with the Chairperson prior to the commencement of the meeting
+            iii.   Must advise the Chairperson of any Advisory participants they wish to invite to attend the meeting
+            iv.    May participate in discussion and debate at the Meeting under the facilitation of the Chairperson
+            v.     Must participate in motions by casting a vote when instructed to do so, and in the method advised, by the Chairperson
+     6.4.4. Advisors
+            i.     May attend meetings only with the invitation of a Attender and with the approval of the Chairperson
+            ii.    May address the meeting in their advisory capacity when requested to do so by the Chairperson
+            iii.   May participate in general discussion and debate at the Meeting if invited to do so by, and under the facilitation of, the Chairperson
+            iv.    May not participate in motions
+     6.4.5. Ballot Officers
+            i.     Fulfil all the duties of an Attender as defined in Clause 6.4.3
+            ii.    If the person fulfilling this role is unable to attend the relevant meeting they must organise another member to fulfil this role for the meeting prior to the notification of the meeting, subject to Clauses governing the appointment of Ballot Officers in Section 7
+            iii.   Follow the procedures for counting ballots in the secret ballot in private
+            iv.    Where multiple Ballot Officers are appointed, each must independently count (or recount) the ballots, until all Ballot Officers agree upon the result of the secret ballot
+            v.     Notify the Chairperson of the result of the secret ballot
+            vi.    Conduct a recount of the secret ballot at the direction of the Chairperson
+
+
+7. Meetings
+
+7.1. The following procedures will apply to all meetings unless otherwise stated:
+     7.1.1. Notice for meetings must be given in writing via E-Mail to all members no less than seven (7) days prior
+     7.1.2. Meetings shall consist of the following roles:
+            7.1.2.1. Chairperson
+            7.1.2.2. Minute Taker
+            7.1.2.3. Attenders
+            7.1.2.4. Advisors
+            7.1.2.5. Ballot Officers
+     7.1.3. Each of these roles shall comply with the duties and responsibilities for these roles as defined by Clause 6.4
+     7.1.4. With the exception of Advisory members as defined in Clause 7.1.2.4, all attendees at meetings must be Members of the Society as defined in Clause 2.4 or Participants of the relevant Committee as defined in Clause 5.1 in order to attend and to participate in Motions
+     7.1.5. All Meetings shall unless otherwise stated be considered open to any Member who wishes to attend as an observer
+            7.1.5.1. Members should notify the Chair of their intention to do so at least one (1) day prior to the relevant Meeting
+            7.1.5.2. If the Meeting is determined by the Executive to be of sensitive nature by the passing of a Motion, they can notify the membership at any time that the meeting will be closed to observers
+     7.1.6. Motions are carried in a meeting by:
+            7.1.6.1. Unless otherwise specified, the quorum for a Motion shall be three (3) non- Advisory persons
+            7.1.6.2. A Motion is put forward to the Chairperson by a non-Advisory participant and must be seconded by another participant for the Chairperson to proceed
+            7.1.6.3. The Chairperson must call for final cases to be presented with a maximum of five (5) minutes allocated to this task for items of business previously debated, and fifteen (15) minutes for new items of business
+            7.1.6.4. The Chairperson calls for a vote, which is conducted by either secret ballot or by a show of hands at their discretion
+            7.1.6.5. With the exception of Advisory participants as defined in Clause 7.1.2.4 who are not entitled to participate, and the exception contained in Clause 7.1.6.9, all participants present are entitled to one single vote with the exception of Clause 7.1.6.7
+            7.1.6.6. Unless otherwise stated, proxy votes are not allowed
+            7.1.6.7. In the case of equality of voting, the Chairperson is empowered to make the deciding vote unless the Society President, as defined in Clause 3.4.1.1 is present in a non-Advisory role, in which case they retain the deciding vote
+            7.1.6.8. The Motion is passed with a simple majority vote
+            7.1.6.9. In Orgs Meetings, each member of the Executive Body and each committee are entitled to one single vote, except in the case where a Member is Committee Head for multiple Committees, where that Member is entitled to at most one single vote. In particular, a member of the Executive Body who is also a Committee Head is entitled to at most one vote
+     7.1.7. Unless otherwise stated, a Ballot Officer shall be:
+            7.1.7.1. Appointed at the discretion of the Chairperson
+            7.1.7.2. An Attender who is not also the Chairperson or Minute Taker, as defined by Clauses 7.1.2 through 7.1.4
+            7.1.7.3. An Attender who did not Raise or Second the Motion to be voted upon
+7.2. Annual General Meeting (“AGM” herein)
+     7.2.1. There shall be one AGM each calendar year, held on a day not within the University exam period
+     7.2.2. Notice for the AGM shall be given no less than seven (7) days prior, and is to be:
+            7.2.2.1. Given in writing to Arc
+            7.2.2.2. Given in writing to all Society Members via E-Mail
+     7.2.3. The agenda for the AGM shall be circulated to all Society Members no less than seven (7) days prior
+     7.2.4. Quorum for the AGM shall be fifteen (15) Members or half the Society Membership, whichever is less. 
+     7.2.5. If the AGM is not held on an academic day, then members may vote by proxy on all matters.
+            7.2.5.1. Proxy voting will be conducted in the same manner as specified in Clause 9.2.10.iii
+     7.2.6. Unless otherwise stated in the agenda notice, this meeting will be:
+            7.2.6.1. Chaired by the Society President
+            7.2.6.2. Minutes taken by the Society Secretary
+            7.2.6.3. Attenders will be all Members as defined in Clause 2.4
+            7.2.6.4. No persons in Advisory roles may attend
+     7.2.7. At this meeting:
+            7.2.7.1. Reports will be presented by at least the President and Treasurer
+            7.2.7.2. Full financial reports will be presented and adopted
+            7.2.7.4. Any motions to change the constitution shall take place
+            7.2.7.5. Other Motions will be discussed and voted on
+     7.2.8. Full minutes of this meeting, including a list of the new Executive, written financial reports and constitutional amendments, shall be forwarded to Arc within ten (10) academic days of the meeting
+7.3. Extraordinary General Meeting (“EGM” herein)
+     7.3.1. An EGM shall be held on a day not within the University exam period
+     7.3.2. The format, procedures, notice, agenda and quorum for an EGM shall be the same as for the AGM, except that Executive Elections will not occur unless specifically notified
+     7.3.3. An EGM is called when:
+            7.3.3.1. The Executive passes a Motion to do so;
+            7.3.3.2. Orgs passes a Motion to do so to award privileges to the Executive Body or members in response to Clause 4.2.8
+            7.3.3.3. The Executive is petitioned to do so by at least fifteen (15) Members in writing. A petitioned EGM must be held within twenty one (21) business days, but no earlier than five (5).
+     7.3.4. There must be one (1) mandatory EGM held annually before the end of the year where all executive positions are vacated and an Executive Election shall take place in accordance with the Executive Election process outlined in Section 9.
+            7.3.4.1. At the mandatory EGM, Executive Elections shall take place in accordance with the Executive Election Process Outlined in Section 9.
+            7.3.4.2. Have at least two (2) Ballot Officers for Executive Election, as defined in Section 9
+            7.3.4.3. Notwithstanding Clause 7.1.7, a Ballot Officer for Executive Elections shall be:
+                     7.3.4.3.1. Appointed by a Motion passed by the Executive at any time before the commencement of the Mandatory EGM
+                     7.3.4.3.2. An Attender of the Mandatory EGM, where at the Mandatory EGM the Ballot Officer:
+                                i.     Must not be running for election in any Executive position 
+                                ii.    Must not vote in any ballot for an Executive election
+                     7.3.4.3.3. Not an Attender of the Mandatory EGM, where at the Mandatory EGM the Ballot Officer:
+                                i.     Must take no part in the Mandatory EGM except where necessary to fulfil all roles and responsibilities as defined in Clause 6.4.5, with the exception of Clause 6.4.5.i
+            7.3.4.4. All other requirements for the mandatory EGM will adhere to the procedures laid out in Section 7.1
+7.4. Executive Meetings
+     7.4.1. Occur no less than once every four (4) weeks for the duration of the Executive Term as defined in Clause 3.10, except when an Organisational Standing Committee Meeting as defined in Clause 7.5 has occurred within the same time period, in which case the Executive may suspend its independent meetings at its discretion
+     7.4.2. Notice for the meeting whenever possible shall be circulated to all Members no less than three (3) business days prior, and the agenda circulated no less than one (1) business day prior
+     7.4.3. Quorum for an Executive Meeting shall be no less than two thirds (2/3) of the Executive Members as defined in Clause 3.4.1
+     7.4.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.4.4.1. Chaired by the President
+            7.4.4.2. Minutes taken by the Secretary
+            7.4.4.3. Attenders, Executive Members as defined in Clause 3.4.1
+            7.4.4.4. Advisors, Non-Executive Members as defined in Clause 3.4.2 who do not require permission of the Chairperson, and other Advisors at the discretion of the Executive
+     7.4.5. This meeting shall have all other procedures and processes as defined in Section 7.1
+7.5. Organisational Standing Committee Meetings (here in “Orgs Meetings”)
+     7.5.1. Occur no less than once every four (4) weeks, for the duration of the Orgs Term as defined in Clause 4.11.
+     7.5.2. Notice for the meeting shall be circulated to all Members no less than three (3) business days prior, and the agenda circulated no less than one (1) business day prior
+     7.5.3. Quorum for an Orgs Meeting shall be no less than half (1/2) the Orgs body as defined in Clause 4.4
+     7.5.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.5.4.1. Chaired by the President
+            7.5.4.2. Minutes taken by the Secretary
+            7.5.4.3. Attenders, the Orgs body as defined in Clause 4.4
+            7.5.4.4. Advisors appointed at the discretion of Orgs
+     7.5.5. A Motion passed by Orgs is subject to ratification by the Executive
+     7.5.6. This meeting shall have all other procedures and processes as defined in Section 7.1
+7.6. Committee Meetings
+     7.6.1. Occur whenever deemed necessary, for the duration of the Committee Term as defined in Clause 5.11
+     7.6.2. Notice for the meeting shall be circulated to Committee Participants no less than two (2) business days prior, and the agenda circulated no less than one (1) day prior
+     7.6.3. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.6.3.1. Chaired by the Head of Committee
+            7.6.3.2. Minutes taken by the Committee Secretary
+            7.6.3.3. Attenders, the Committee Participants as defined in Clause 5.4
+            7.6.3.4. Advisors, any non-Committee members present at the meeting
+     7.6.4. A Motion passed in a Committee is subject to ratification by Orgs
+     7.6.5. This meeting shall have all other procedures and processes as defined in Section 7.1
+7.7. The Transitional Executive
+     7.7.1. Occur no less than fifteen (15) business days after an Executive Election. In most cases this will be once each calendar year immediately following the mandatory EGM.
+     7.7.2. Notice and agenda for the meeting shall be circulated to all outgoing and incoming Members no less than five (5) business days prior
+     7.7.3. Quorum for an Executive Meeting shall be no less than half (1/2) of the Executive Members as defined in Clause 3.4.1 for both the outgoing and incoming Executives
+     7.7.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.7.4.1. Chaired by the outgoing President
+            7.7.4.2. Minutes taken by the incoming Secretary
+            7.7.4.3. Attenders, Members of both the outgoing and incoming Executive as defined in Clause 3.4
+            7.7.4.4. Advisors may not attend the Transitional Executive
+     7.7.5. At this meeting:
+            7.7.5.1. Reports will be presented by at least one (1) outgoing Director, one (1) outgoing Producer and the outgoing Treasurer
+            7.7.5.2. Full financial records will be handed over to the incoming Treasurer
+            7.7.5.3. The Debrief compiled in Clause 7.8.6 shall be handed over to the incoming Executive members
+            7.7.5.4. All outstanding business will be disclosed to the incoming Executive
+            7.7.5.5. Only business and Motions involving the outgoing Executive may be discussed or vote on
+     7.7.6. This meeting shall otherwise have all other procedures and processes as defined in Section 7.4
+7.8. The Organisational Standing Committee Debrief (herein “Orgs Debrief”)
+     7.8.1. Occur no less than five (5) days after bump-out. In most cases this will be once each calendar year following the last show night.
+     7.8.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) days prior
+     7.8.3. Quorum for the meeting shall be no less than two thirds (2/3) of the Members of Orgs as defined in Clause 4.4
+     7.8.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.8.4.1. Chaired by the President
+            7.8.4.2. Minutes taken by the Secretary
+            7.8.4.3. Attenders, all Members of Orgs as defined in Clause 4.4
+            7.8.4.4. Advisors, other attendees present at the invitation of the Executive
+     7.8.5. At this meeting:
+            7.8.5.1. Reports will be presented by at least one (1) Director, one (1) Producer, the Treasurer and each Committee Head.
+            7.8.5.2. Where a Committee Head cannot attend, they should submit a written report to be read to the meeting
+            7.8.5.3. A Motion will be passed fixing the number of Director and Producer Positions that will be presented to the next subsequent mandatory EGM following the close of the Debrief
+            7.8.5.4. No other Motions may be voted on at this meeting
+     7.8.6. The minutes for this meeting shall be compiled into a Debrief Document and distributed to all members of Orgs within seven (7) business days
+     7.8.7. This meeting shall otherwise have all other procedures and processes as defined in Section 7.5
+7.9. The Organisational Standing Committee Budget Meeting (herein “Orgs Budget Meeting”):
+     7.9.1. Occur no less than three (3) months after the commencement of the Executive Term
+     7.9.2. Notice and agenda for the meeting shall be circulated to Orgs Members no less than five (5) business days prior
+     7.9.3. Quorum for the meeting shall be no less than three quarters (3/4) of the Members of Orgs as defined in Clause 4.4
+     7.9.4. Unless otherwise stated in the agenda notice, the meeting shall be:
+            7.9.4.1. Chaired by the Treasurer
+            7.9.4.2. Minutes taken by the Secretary
+            7.9.4.3. Attenders, all Members of Orgs as defined in Clause 4.4, or where the Committee Head cannot attend the CFO for that Committee
+            7.9.4.4. Advisors, the Committee Financial Officer (herein “CFO”) for each Committee who are attending in addition to their respective Committee Head
+     7.9.5. At this meeting:
+            7.9.5.1. The Income Projection prepared by the Treasurer will be presented
+            7.9.5.2. Each Preliminary Budget request prepared by the CFO will be presented
+            7.9.5.3. The Final Budget will be prepared in the meeting by discussion and negotiation between Attenders, Advisors and the Treasurer
+            7.9.5.4. The Final Budget must be carried by a Motion
+            7.9.5.5. The Final Budget must be the only Motion passed at the meeting
+     7.9.6. Final Budget passed in this meeting must be ratified by the Executive before it comes into effect
+     7.9.7. The Treasurer must circulate the Final Budget within seven (7) business days of being ratified to all members of Orgs
+     7.9.8. This meeting shall otherwise have all other procedures and processes as defined in Section 7.5
+7.10. The Reflection Panel
+     7.10.1. Shall be the meeting where candidates for Executive positions are interviewed in accordance with the Executive Election process defined in Section 9
+     7.10.2. Shall be closed to observers to protect the privacy of candidates
+     7.10.3. Occur no less than fourteen (14) days after the Orgs Debrief and no more than one (1) month prior to the mandatory EGM.
+     7.10.4. Notice and agenda for the meeting shall be circulated to the attenders no less than three (3) days prior
+     7.10.5. Subject to Clause 7.10.5.5 the meeting shall be:
+            7.10.5.1. Chaired by an independent facilitator who is not a Member of the Society, such as member of the CSE Administration, Arc, or a respected member of the general community, invited to do so by the Executive
+            7.10.5.2. Minutes taken by the Secretary
+            7.10.5.3. Attenders shall be:
+                     i.     All Members of Orgs as defined by Clause 4.4 subject to Clause 7.10.5.5
+                     ii.    One (1) past Executive Member who is not a member of the current Executive Body or a Member of Orgs, invited to participate by the Executive
+                     iii.   One (1) representative from another Theatrical Society, Show or other similar group who is not a current Member of the Society, invited to participate by the Executive
+            7.10.5.4. No Advisors may attend the meeting
+            7.10.5.5. No candidates may attend the meeting, with the exception of those who are also Executive members who must leave the meeting during the discussion of the positions they are applying for. If the Society President or Secretary are candidates then their roles for the meeting must be filled by other members of the Executive.
+     7.10.6. All discussion at the Reflection Panel meeting is considered confidential and minutes will not be made publicly available to the membership. Records will only be made available to Arc at its request.
+     7.10.7. This meeting shall otherwise have all other procedures and processes as defined in Section 7.1.
+
+
+8. Financials
+
+8.1. The Society shall only hold a cheque (debit) account with a financial institution approved by Arc @ UNSW.
+     8.1.1. The opening balance of the account shall be the current balance at the commencement of a the Executive Term as defined in Clause 3.10
+     8.1.2. The account shall require three signatories which one (1) must be the Treasurer, and the remaining two (2) must be Producers
+            8.1.2.1. The Executive must approve all accounts and expenditures for payment
+     8.1.3. All withdrawals from the account shall require two of the three signatures:
+            8.1.3.1. One must always be the Treasurer, except where the Treasurer meets the definition of Clause 8.1.3.2
+            8.1.3.2. Where payment is being made directly or indirectly to a signatory, the remaining two must sign for and authorise the payment
+     8.1.4. At no time may the account go into overdraft
+     8.1.5. All deposits into the account shall be remitted to the Treasurer within five (5) business days by the payee, and any deposit slip or receipt forwarded within ten (10) business days.
+     8.1.6. The account must be reconciled by the Treasurer within twenty one (21) business days of the receipt of a statement subject to Clause 8.1.7
+     8.1.7. The Closing Balance shall be the balance of the account, as reconciled by the Treasurer one (1) business day prior to the end of the current Executive Term as defined in Clause 3.10
+8.2. The Society shall maintain Financial records based on an Accrual system
+     8.2.1. The Accrual Term shall be the Executive Term as defined in Clause 3.10
+     8.2.2. The opening balance for the Accrual accounts shall be:
+            8.2.2.1. The reconciled cash balance as of the beginning of the Accrual Term for the Society
+            8.2.2.2. Zero for all other accounts
+     8.2.3. While the Budget for the Executive Term is not in effect, Executive will be responsible for the distribution of all funding
+     8.2.4. The Executive shall establish the Budget for the Executive Term by:
+            8.2.4.1. Preparing and passing a Budget for the Society as per the procedure defined in Clause 7.9
+            8.2.4.2. Set the opening balances for Accrual accounts as determined by the Budget
+            8.2.4.3. Determine access rights to the appropriate Accrual account/s for each Committee by briefing and approving the Committee Financial Officer (“CFO” herein) as defined in Clause 5.4.3
+     8.2.5. The Budget may be amended at any time by the Executive with the passing of a Motion
+     8.2.6. While the Budget for the Executive Term is in effect, the authorised CFO shall be able to access funding from their appropriate Accrual account/s as defined in the Budget:
+            8.2.6.1. If and only if the Accrual Account has not exceeded its allocated limit as defined by the Budget
+            8.2.6.2. By drawing from Petty Cash as defined in Clause 8.3
+            8.2.6.3. By obtaining a Purchase Order as defined in Clause 8.4
+     8.2.7. The Budget ceases to be in effect when:
+            8.2.7.1. The end of the Orgs Debrief as defined in Clause 7.8
+            8.2.7.2. The Accrual Term ends
+            8.2.7.3. A Motion is passed by the Executive
+     8.2.8. With the cessation of the Budget for the Executive Term:
+            8.2.8.1. All outstanding funding allocated to Accrual Accounts reverts back to the Society
+            8.2.8.2. The Treasurer must reconcile the Accrual balance of the Society to its Cash Position
+     8.2.9. All accrual accounts must be reconciled by the Treasurer no less than once every two (2) months
+     8.2.10. The closing Balance for the Accrual Accounts will be:
+            8.2.10.1. The accrual position of the Society reconciled against its cash position
+            8.2.10.2. Zero for all other accounts
+8.3. Petty Cash may be maintained by Committees under the supervision of the Committee Financial Officer (CFO)
+     8.3.1. Committees may withdraw up to 20% of their approved budget in petty cash with the authorisation of a Producer
+     8.3.2. The CFO submits a Purchase Order as defined in Clause 8.4 for “Petty Cash”
+     8.3.3. The Treasurer will issue a Petty Cash Order form containing a PO order number to the CFO for the approved amount
+     8.3.4. A Cheque or Direct Deposit advance will be made to the CFO
+     8.3.5. The CFO is responsible for ensuring that the Petty Cash account is kept in order and for collecting receipts and attaching these to the Petty Cash Order
+     8.3.6. When funds become exhausted or when instructed to do so by the Treasurer, the CFO must reconcile the receipts and return all original receipts, the Petty Cash Order form and any outstanding monies
+     8.3.7. The CFO may with permission of a Producer overdraw up to 10% of the original authorised amount to be refunded by the Treasurer once the account is reconciled; amounts over 10% will not be refunded
+8.4. Purchase Orders must be issued prior to any purchase by a Member with the exception of purchases drawn from Petty Cash established by Clause 8.3
+     8.4.1. A Purchase Order request is submitted to the Treasurer via the website showing:
+            8.4.1.1. The name and contact details of the member submitting the request;
+            8.4.1.2. The Committee from which budget the requested funds will be allocated;
+            8.4.1.3. The name of the Committee Head and Producer who authorised the request;
+            8.4.1.4. The name and contact details of the supplier (if relevant);
+            8.4.1.5. The details of the purchase request showing the approximate breakdown of purchases and requested funds
+     8.4.2. The Treasurer will:
+            8.4.2.1. Confirm that the budget for the Committee which the funds will be drawn has available funds and notify the authorising Producer if there is insufficient funds;
+            8.4.2.2. Confirm verbally or via E-Mail with the Producer listed that the request has been authorised;
+            8.4.2.3. Approve the request and issue a Purchase Order form to the requesting member containing an authorisation number and showing the approved amount
+     8.4.3. In the case where the Purchase Order is for goods on an account from a supplier, the Treasurer will:
+            8.4.3.1. Communicate directly with the supplier and organise the issue the Purchase Order either via fax or email;
+            8.4.3.2. Communicate any terms, conditions or additional paperwork requirements to the authorising Producer;
+            8.4.3.3. Obtain a Tax Invoice from the supplier;
+            8.4.3.4. Pay any required upfront deposit and remit to the supplier;
+            8.4.3.5. Communicate any instructions from the supplier to the authorising Producer and requesting member;
+            8.4.3.6. Wait for confirmation from the Producer that the goods have been received or relevant work completed pending the terms of the appropriate supplier agreement;
+            8.4.3.7. Pay any outstanding payment and remit to the supplier
+     8.4.4. In the case where the Purchase Order is for goods that are yet to be purchased by a member:
+            8.4.4.1. Once the Purchase Order form is received by the member they are now authorised to make the approved purchase;
+            8.4.4.2. The member obtains receipt/s for the purchases and attaches the originals to the Purchase Order form;
+            8.4.4.3. The form is returned to the Treasurer;
+            8.4.4.4. The Treasurer refunds the total amount as shown on the invoices subject to Clause 8.4.5 and updates the accounting records
+     8.4.5. The requesting member can with the permission of a Producer purchase and be refunded up to a maximum of 10% over the amount authorised on the Purchase Order form; amounts over 10% will not be refunded
+8.5. At the end of the Executive Term as defined in Clause 3.10
+     8.5.1. The Society financial records must be reconciled against its cash position and in balance no less than one (1) business day prior to the end of the Executive Term
+     8.5.2. All pending purchase orders and invoices must be finalised within ten (10) business days
+     8.5.3. Signatories on all accounts must be transferred within ten (10) business days to the new Executive
+     8.5.4. The outgoing Treasurer must hand over all financial records to the incoming Treasurer
+
+
+9. Executive Elections
+
+9.1. The Procedure for Executive Elections shall commence no later than one (1) month following of the Orgs Debrief as defined in Clause 7.8
+9.2. The procedure for Executive Elections shall be:
+     9.2.1. The Executive shall prepare an application form for candidates including details of positions and duties; and the number of Producers and Director candidates that will be presented to the mandatory EGM, as determined by Clause 7.8.5.3
+     9.2.2. The Executive shall call for candidates by notifying the entire membership and any interested parties of the availability of the application form with at least fourteen (14) days prior to the date for the lodgement of applications
+     9.2.3. Late applications will not be accepted
+     9.2.4. Copies of each candidate’s form shall be forwarded to all members of the Reflection Panel at least two (2) business days prior to the Reflection Panel meeting
+     9.2.5. The Reflection Panel, as defined in Clause 7.10, shall meet to consider all applications:
+            i.     The Reflection Panel shall convene to briefly review each application and compile a list of any specific questions to ask each candidate
+            ii.    Each candidate shall in turn be invited into the Reflection Panel for a short interview running no longer than fifteen (15) minutes where the Panel will be able to ask questions to clarify each candidate’s submission
+            iii.   The Reflection Panel shall again review each candidate in turn and discuss in detail their:
+                     i.     Written application
+                     ii.    Interview responses
+                     iii.   Suitability for the roles applied for
+                     iv.    After each Motion, each member of the panel shall write a brief 2-3 line assessment of the candidate’s strengths and weaknesses. These will be compiled by the Minute Taker at the end of the meeting into a single anonymous feedback document for each candidate.
+     9.2.6. All candidates shall be provided with their anonymous feedback within two (2) business days in writing by the Chairperson. Candidates must be notified prior to the publishing of final candidate list to the membership.
+     9.2.7. Candidates will be invited to submit a blurb and prepare a speech for presentation at the mandatory EGM, the length of each to be determined by the Executive
+     9.2.8. The Executive will call an mandatory EGM in accordance with Clause 7.3
+     9.2.9. The full list of Candidates, the positions they are applying for and each Candidate’s blurb shall be circulated to the full membership no less than seven (7) days prior to the mandatory EGM
+     9.2.10. For the purpose of Executive Elections, the following rules shall apply for the casting of votes:
+            i.     All current Members shall be able to cast a single vote
+            ii.    Only Members who attend the mandatory EGM in person shall be able to cast a vote
+            iii.   Proxy voting shall be allowed only when:
+                     i.     A Member empowers another Member to act as their proxy by notifying the Executive of the full name and student number of the Member they wish to empower;
+                     ii.    The Proxy must register their intent to cast a proxy vote prior to the commencement of the mandatory EGM;
+                     iii.   Any one Member can only act as proxy for a maximum of one (1) other member;
+                     iv.    A Candidate cannot act as a proxy;
+                     v.     The Proxy’s vote shall for the sole purpose of the Executive Election count as two (2) votes;
+                     vi.    A proxy cannot be empowered to vote on any other matter at an mandatory EGM, unless the mandatory EGM is not held on an academic day.
+            iv.    Voting shall be by secret ballot. Ballots are completed on the ballot form by:
+                     i.     Numbering Candidates in order of preference, from 1 to n where n must not exceed the number of Candidates where 1 is the most preferred and n the least preferred Candidate
+            v.     A Ballot shall only be valid where, in accordance with Clause 9.2.10.iv:
+                     i.     All markings have been clearly placed on the ballot form
+                     ii.    Preferences are numbered sequentially, starting at 1, without skipping any preference.
+                     iii.   All preferences are unique
+            vi.    Ballots shall be counted by the Ballot Officer and Candidates passed into Executive positions by the following process:
+                     i.     The first x preferences, where x is the number of positions to be filled, will be counted as of equal value toward each respective Candidate
+                     ii.    Any preference for a candidate will be counted as a vote of Confidence
+                     iii.   A Candidate shall have Confidence if the ratio of valid ballots where a vote of Confidence has been recorded for the Candidate to the total number of valid ballots exceeds one-third (1/3)
+                     iv.    The first x eligible Candidates who have Confidence, with the highest number of votes win, with eligibility in accordance with 3.6
+                     v.     In the case of deadlock, the Candidate with the highest first preference (“1”) votes wins
+                     vi.    In the case of subsequent continued deadlock, each Candidate’s subsequent preferences will be counted in turn until the first preference with the highest number of votes breaks the deadlock
+                     vii.   In the case where all preferences are exhausted, the ballot will be declared invalid
+                     viii.  Where the total number of valid ballots is less than the number of Members required for a Quorum as defined in Clause 7.2.4, the ballot will be declared invalid
+                     ix.    Where a ballot has been declared invalid the membership shall be asked to re-cast their votes
+     9.2.11. During the mandatory EGM:
+            i.     The Chair shall when ready call for the commencement of Executive Elections
+            ii.    Executive positions will be filled in the following order:
+                     i.     Directors
+                     ii.    Producers
+                     iii.   Secretary
+                     iv.    Treasurer
+                     v.     Arc Delegate
+                     vi.    President
+            iii.   For each position the Chair shall call each Candidate in turn to present their prepared speech.
+            iv.    At the conclusion of a Candidate’s prepared speech, there is a period of three minutes whereby they are to answer any reasonable questions posed to them by the Society.
+            v.     At the conclusion of all speeches for each position, Members shall be asked to complete their Ballot papers and place these into the specified collection bins
+            vi.    Ballots shall be counted by the nominated Ballot officers during the speeches for the next position
+            vii.   The Chair shall announce the results of the Ballot at the end of the speeches
+            viii.  The Chair shall announce the completion of Executive Elections once all Executive positions have been filled
+     9.2.12. The Membership shall be notified in writing within two (2) business days of the close of the mandatory EGM of the results of the Executive Election
+9.3. The outgoing Executive shall facilitate the hand over to the incoming Executive by calling the Transitional Executive as defined by Clause 7.7 within one (1) month following the close of the mandatory EGM
+
+
+10. Dissolution
+
+10.1. Dissolution of the Society will occur after the following conditions have been met:
+     10.1.1. An Extraordinary General Meeting is petitioned in writing as set out in 7.3
+     10.1.2. Procedures for notification as set out in 7.3 are followed, and the reasons for the proposed dissolution are included with the notification to Arc
+     10.1.3. Quorum for the meeting to dissolve the Society shall be twenty (20) members or three- quarters of the Society membership, whichever is lesser.
+     10.1.4. No other business may be conducted at the meeting to dissolve the Society;
+     10.1.5. After the petitioning body has stated its case any opposition must be given the opportunity to reply, with at least ten (10) minutes set aside for this purpose;
+     10.1.6. A vote is taken and the motion to dissolve lapses if opposed by fifteen (15) or more members of the Society;
+     10.1.7. If the motion to dissolve is carried, Arc must be notified within ten (10) academic days.
+10.2. Dissolution of the Society will also occur if the Society has been financially and administratively inactive for a period of eighteen (18) months.
+10.3. On the Dissolutions of the Society the Executive shall have ten (10) business days to notify creditors, finalise outstanding payments and close off all accounts
+10.4. On dissolution of the club, the club is not to distribute assets to members. All assets are to be distributed to an organisation with similar goals or objectives that also prohibits the distribution of assets to members. This organisation may be nominated at the dissolution meeting of the club. If no other legitimate club or organisation is nominated, the Arc will begin procedures to recover any property, monies or records belonging to the club which it perceives would be useful to other Arc-affiliated clubs.
