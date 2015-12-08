@@ -1,0 +1,63 @@
+9. Executive Elections
+
+9.1. The Procedure for Executive Elections shall commence no later than one (1) month following of the Orgs Debrief as defined in Clause 7.8
+9.2. The procedure for Executive Elections shall be:
+     9.2.1. The Executive shall prepare an application form for candidates including details of positions and duties; and the number of Producers and Director candidates that will be presented to the mandatory EGM, as determined by Clause 7.8.5.3
+     9.2.2. The Executive shall call for candidates by notifying the entire membership and any interested parties of the availability of the application form with at least fourteen (14) days prior to the date for the lodgement of applications
+     9.2.3. Late applications will not be accepted
+     9.2.4. Copies of each candidate’s form shall be forwarded to all members of the Reflection Panel at least two (2) business days prior to the Reflection Panel meeting
+     9.2.5. The Reflection Panel, as defined in Clause 7.10, shall meet to consider all applications:
+            i.     The Reflection Panel shall convene to briefly review each application and compile a list of any specific questions to ask each candidate
+            ii.    Each candidate shall in turn be invited into the Reflection Panel for a short interview running no longer than fifteen (15) minutes where the Panel will be able to ask questions to clarify each candidate’s submission
+            iii.   The Reflection Panel shall again review each candidate in turn and discuss in detail their:
+                     i.     Written application
+                     ii.    Interview responses
+                     iii.   Suitability for the roles applied for
+                     iv.    After each Motion, each member of the panel shall write a brief 2-3 line assessment of the candidate’s strengths and weaknesses. These will be compiled by the Minute Taker at the end of the meeting into a single anonymous feedback document for each candidate.
+     9.2.6. All candidates shall be provided with their anonymous feedback within two (2) business days in writing by the Chairperson. Candidates must be notified prior to the publishing of final candidate list to the membership.
+     9.2.7. Candidates will be invited to submit a blurb and prepare a speech for presentation at the mandatory EGM, the length of each to be determined by the Executive
+     9.2.8. The Executive will call an mandatory EGM in accordance with Clause 7.3
+     9.2.9. The full list of Candidates, the positions they are applying for and each Candidate’s blurb shall be circulated to the full membership no less than seven (7) days prior to the mandatory EGM
+     9.2.10. For the purpose of Executive Elections, the following rules shall apply for the casting of votes:
+            i.     All current Members shall be able to cast a single vote
+            ii.    Only Members who attend the mandatory EGM in person shall be able to cast a vote
+            iii.   Proxy voting shall be allowed only when:
+                     i.     A Member empowers another Member to act as their proxy by notifying the Executive of the full name and student number of the Member they wish to empower;
+                     ii.    The Proxy must register their intent to cast a proxy vote prior to the commencement of the mandatory EGM;
+                     iii.   Any one Member can only act as proxy for a maximum of one (1) other member;
+                     iv.    A Candidate cannot act as a proxy;
+                     v.     The Proxy’s vote shall for the sole purpose of the Executive Election count as two (2) votes;
+                     vi.    A proxy cannot be empowered to vote on any other matter at an mandatory EGM, unless the mandatory EGM is not held on an academic day.
+            iv.    Voting shall be by secret ballot. Ballots are completed on the ballot form by:
+                     i.     Numbering Candidates in order of preference, from 1 to n where n must not exceed the number of Candidates where 1 is the most preferred and n the least preferred Candidate
+            v.     A Ballot shall only be valid where, in accordance with Clause 9.2.10.iv:
+                     i.     All markings have been clearly placed on the ballot form
+                     ii.    Preferences are numbered sequentially, starting at 1, without skipping any preference.
+                     iii.   All preferences are unique
+            vi.    Ballots shall be counted by the Ballot Officer and Candidates passed into Executive positions by the following process:
+                     i.     The first x preferences, where x is the number of positions to be filled, will be counted as of equal value toward each respective Candidate
+                     ii.    Any preference for a candidate will be counted as a vote of Confidence
+                     iii.   A Candidate shall have Confidence if the ratio of valid ballots where a vote of Confidence has been recorded for the Candidate to the total number of valid ballots exceeds one-third (1/3)
+                     iv.    The first x eligible Candidates who have Confidence, with the highest number of votes win, with eligibility in accordance with 3.6
+                     v.     In the case of deadlock, the Candidate with the highest first preference (“1”) votes wins
+                     vi.    In the case of subsequent continued deadlock, each Candidate’s subsequent preferences will be counted in turn until the first preference with the highest number of votes breaks the deadlock
+                     vii.   In the case where all preferences are exhausted, the ballot will be declared invalid
+                     viii.  Where the total number of valid ballots is less than the number of Members required for a Quorum as defined in Clause 7.2.4, the ballot will be declared invalid
+                     ix.    Where a ballot has been declared invalid the membership shall be asked to re-cast their votes
+     9.2.11. During the mandatory EGM:
+            i.     The Chair shall when ready call for the commencement of Executive Elections
+            ii.    Executive positions will be filled in the following order:
+                     i.     Directors
+                     ii.    Producers
+                     iii.   Secretary
+                     iv.    Treasurer
+                     v.     Arc Delegate
+                     vi.    President
+            iii.   For each position the Chair shall call each Candidate in turn to present their prepared speech.
+            iv.    At the conclusion of a Candidate’s prepared speech, there is a period of three minutes whereby they are to answer any reasonable questions posed to them by the Society.
+            v.     At the conclusion of all speeches for each position, Members shall be asked to complete their Ballot papers and place these into the specified collection bins
+            vi.    Ballots shall be counted by the nominated Ballot officers during the speeches for the next position
+            vii.   The Chair shall announce the results of the Ballot at the end of the speeches
+            viii.  The Chair shall announce the completion of Executive Elections once all Executive positions have been filled
+     9.2.12. The Membership shall be notified in writing within two (2) business days of the close of the mandatory EGM of the results of the Executive Election
+9.3. The outgoing Executive shall facilitate the hand over to the incoming Executive by calling the Transitional Executive as defined by Clause 7.7 within one (1) month following the close of the mandatory EGM
