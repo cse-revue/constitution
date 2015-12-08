@@ -1,0 +1,77 @@
+8. Financials
+
+8.1. The Society shall only hold a cheque (debit) account with a financial institution approved by Arc @ UNSW.
+     8.1.1. The opening balance of the account shall be the current balance at the commencement of a the Executive Term as defined in Clause 3.10
+     8.1.2. The account shall require three signatories which one (1) must be the Treasurer, and the remaining two (2) must be Producers
+            8.1.2.1. The Executive must approve all accounts and expenditures for payment
+     8.1.3. All withdrawals from the account shall require two of the three signatures:
+            8.1.3.1. One must always be the Treasurer, except where the Treasurer meets the definition of Clause 8.1.3.2
+            8.1.3.2. Where payment is being made directly or indirectly to a signatory, the remaining two must sign for and authorise the payment
+     8.1.4. At no time may the account go into overdraft
+     8.1.5. All deposits into the account shall be remitted to the Treasurer within five (5) business days by the payee, and any deposit slip or receipt forwarded within ten (10) business days.
+     8.1.6. The account must be reconciled by the Treasurer within twenty one (21) business days of the receipt of a statement subject to Clause 8.1.7
+     8.1.7. The Closing Balance shall be the balance of the account, as reconciled by the Treasurer one (1) business day prior to the end of the current Executive Term as defined in Clause 3.10
+8.2. The Society shall maintain Financial records based on an Accrual system
+     8.2.1. The Accrual Term shall be the Executive Term as defined in Clause 3.10
+     8.2.2. The opening balance for the Accrual accounts shall be:
+            8.2.2.1. The reconciled cash balance as of the beginning of the Accrual Term for the Society
+            8.2.2.2. Zero for all other accounts
+     8.2.3. While the Budget for the Executive Term is not in effect, Executive will be responsible for the distribution of all funding
+     8.2.4. The Executive shall establish the Budget for the Executive Term by:
+            8.2.4.1. Preparing and passing a Budget for the Society as per the procedure defined in Clause 7.9
+            8.2.4.2. Set the opening balances for Accrual accounts as determined by the Budget
+            8.2.4.3. Determine access rights to the appropriate Accrual account/s for each Committee by briefing and approving the Committee Financial Officer (“CFO” herein) as defined in Clause 5.4.3
+     8.2.5. The Budget may be amended at any time by the Executive with the passing of a Motion
+     8.2.6. While the Budget for the Executive Term is in effect, the authorised CFO shall be able to access funding from their appropriate Accrual account/s as defined in the Budget:
+            8.2.6.1. If and only if the Accrual Account has not exceeded its allocated limit as defined by the Budget
+            8.2.6.2. By drawing from Petty Cash as defined in Clause 8.3
+            8.2.6.3. By obtaining a Purchase Order as defined in Clause 8.4
+     8.2.7. The Budget ceases to be in effect when:
+            8.2.7.1. The end of the Orgs Debrief as defined in Clause 7.8
+            8.2.7.2. The Accrual Term ends
+            8.2.7.3. A Motion is passed by the Executive
+     8.2.8. With the cessation of the Budget for the Executive Term:
+            8.2.8.1. All outstanding funding allocated to Accrual Accounts reverts back to the Society
+            8.2.8.2. The Treasurer must reconcile the Accrual balance of the Society to its Cash Position
+     8.2.9. All accrual accounts must be reconciled by the Treasurer no less than once every two (2) months
+     8.2.10. The closing Balance for the Accrual Accounts will be:
+            8.2.10.1. The accrual position of the Society reconciled against its cash position
+            8.2.10.2. Zero for all other accounts
+8.3. Petty Cash may be maintained by Committees under the supervision of the Committee Financial Officer (CFO)
+     8.3.1. Committees may withdraw up to 20% of their approved budget in petty cash with the authorisation of a Producer
+     8.3.2. The CFO submits a Purchase Order as defined in Clause 8.4 for “Petty Cash”
+     8.3.3. The Treasurer will issue a Petty Cash Order form containing a PO order number to the CFO for the approved amount
+     8.3.4. A Cheque or Direct Deposit advance will be made to the CFO
+     8.3.5. The CFO is responsible for ensuring that the Petty Cash account is kept in order and for collecting receipts and attaching these to the Petty Cash Order
+     8.3.6. When funds become exhausted or when instructed to do so by the Treasurer, the CFO must reconcile the receipts and return all original receipts, the Petty Cash Order form and any outstanding monies
+     8.3.7. The CFO may with permission of a Producer overdraw up to 10% of the original authorised amount to be refunded by the Treasurer once the account is reconciled; amounts over 10% will not be refunded
+8.4. Purchase Orders must be issued prior to any purchase by a Member with the exception of purchases drawn from Petty Cash established by Clause 8.3
+     8.4.1. A Purchase Order request is submitted to the Treasurer via the website showing:
+            8.4.1.1. The name and contact details of the member submitting the request;
+            8.4.1.2. The Committee from which budget the requested funds will be allocated;
+            8.4.1.3. The name of the Committee Head and Producer who authorised the request;
+            8.4.1.4. The name and contact details of the supplier (if relevant);
+            8.4.1.5. The details of the purchase request showing the approximate breakdown of purchases and requested funds
+     8.4.2. The Treasurer will:
+            8.4.2.1. Confirm that the budget for the Committee which the funds will be drawn has available funds and notify the authorising Producer if there is insufficient funds;
+            8.4.2.2. Confirm verbally or via E-Mail with the Producer listed that the request has been authorised;
+            8.4.2.3. Approve the request and issue a Purchase Order form to the requesting member containing an authorisation number and showing the approved amount
+     8.4.3. In the case where the Purchase Order is for goods on an account from a supplier, the Treasurer will:
+            8.4.3.1. Communicate directly with the supplier and organise the issue the Purchase Order either via fax or email;
+            8.4.3.2. Communicate any terms, conditions or additional paperwork requirements to the authorising Producer;
+            8.4.3.3. Obtain a Tax Invoice from the supplier;
+            8.4.3.4. Pay any required upfront deposit and remit to the supplier;
+            8.4.3.5. Communicate any instructions from the supplier to the authorising Producer and requesting member;
+            8.4.3.6. Wait for confirmation from the Producer that the goods have been received or relevant work completed pending the terms of the appropriate supplier agreement;
+            8.4.3.7. Pay any outstanding payment and remit to the supplier
+     8.4.4. In the case where the Purchase Order is for goods that are yet to be purchased by a member:
+            8.4.4.1. Once the Purchase Order form is received by the member they are now authorised to make the approved purchase;
+            8.4.4.2. The member obtains receipt/s for the purchases and attaches the originals to the Purchase Order form;
+            8.4.4.3. The form is returned to the Treasurer;
+            8.4.4.4. The Treasurer refunds the total amount as shown on the invoices subject to Clause 8.4.5 and updates the accounting records
+     8.4.5. The requesting member can with the permission of a Producer purchase and be refunded up to a maximum of 10% over the amount authorised on the Purchase Order form; amounts over 10% will not be refunded
+8.5. At the end of the Executive Term as defined in Clause 3.10
+     8.5.1. The Society financial records must be reconciled against its cash position and in balance no less than one (1) business day prior to the end of the Executive Term
+     8.5.2. All pending purchase orders and invoices must be finalised within ten (10) business days
+     8.5.3. Signatories on all accounts must be transferred within ten (10) business days to the new Executive
+     8.5.4. The outgoing Treasurer must hand over all financial records to the incoming Treasurer
