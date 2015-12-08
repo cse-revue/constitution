@@ -20,7 +20,7 @@
      8.2.4. The Executive shall establish the Budget for the Executive Term by:
             8.2.4.1. Preparing and passing a Budget for the Society as per the procedure defined in Clause 7.9
             8.2.4.2. Set the opening balances for Accrual accounts as determined by the Budget
-            8.2.4.3. Determine access rights to the appropriate Accrual account/s for each Committee by briefing and approving the Committee Financial Officer (“CFO” herein) as defined in Clause 5.4.3
+            8.2.4.3. Determine access rights to the appropriate Accrual account/s for each Committee by briefing and approving the Committee Financial Officer ("CFO" herein) as defined in Clause 5.4.3
      8.2.5. The Budget may be amended at any time by the Executive with the passing of a Motion
      8.2.6. While the Budget for the Executive Term is in effect, the authorised CFO shall be able to access funding from their appropriate Accrual account/s as defined in the Budget:
             8.2.6.1. If and only if the Accrual Account has not exceeded its allocated limit as defined by the Budget
@@ -39,7 +39,7 @@
             8.2.10.2. Zero for all other accounts
 8.3. Petty Cash may be maintained by Committees under the supervision of the Committee Financial Officer (CFO)
      8.3.1. Committees may withdraw up to 20% of their approved budget in petty cash with the authorisation of a Producer
-     8.3.2. The CFO submits a Purchase Order as defined in Clause 8.4 for “Petty Cash”
+     8.3.2. The CFO submits a Purchase Order as defined in Clause 8.4 for "Petty Cash"
      8.3.3. The Treasurer will issue a Petty Cash Order form containing a PO order number to the CFO for the approved amount
      8.3.4. A Cheque or Direct Deposit advance will be made to the CFO
      8.3.5. The CFO is responsible for ensuring that the Petty Cash account is kept in order and for collecting receipts and attaching these to the Petty Cash Order

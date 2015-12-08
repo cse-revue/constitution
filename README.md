@@ -14,3 +14,4 @@ constitution. (Specfically, raw text file --> latex with hyyperref --> pretty hy
 # Format
 - indents are ~~two spaces~~ however they were done in the conversion to raw `.txt` files (it should be consistent across all the raw text files)
 - retain numbering/dot-point format
+- absolutely no 'smart quotes' (if you're editing with MS Word for some reason, check that Smart Quotes are off first)
