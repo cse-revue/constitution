@@ -10,6 +10,7 @@ constitution. (Specfically, raw text file --> latex with hyyperref --> pretty hy
 - find out why Section 1.7 is blank (occurs in `.docx` and `.pdf` versions too)
 - make branch for converting doc into a web format (HTML/CSS/Markdown/whatever)
 - make branch for converting to PDF (LaTeX with hyperref or equivalent)
+- upload frontmatter page (i.e. the page with the CSE Revue logo and version history)
 
 # Format
 - indents are ~~two spaces~~ however they were done in the conversion to raw `.txt` files (it should be consistent across all the raw text files)
